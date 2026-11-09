@@ -1,0 +1,2830 @@
+[
+  {
+    "id": "T29R2-1",
+    "fr": "nom",
+    "zh": "姓；名称",
+    "kind": "identity",
+    "file": "assets/icons/nouns/T29R2-1.svg"
+  },
+  {
+    "id": "T29R3-1",
+    "fr": "prénom",
+    "zh": "名字",
+    "kind": "identity",
+    "file": "assets/icons/nouns/T29R3-1.svg"
+  },
+  {
+    "id": "T29R4-1",
+    "fr": "âge",
+    "zh": "年龄",
+    "kind": "calendar",
+    "file": "assets/icons/nouns/T29R4-1.svg"
+  },
+  {
+    "id": "T29R5-1",
+    "fr": "an",
+    "zh": "一岁；一年",
+    "kind": "calendar",
+    "file": "assets/icons/nouns/T29R5-1.svg"
+  },
+  {
+    "id": "T29R6-1",
+    "fr": "nationalité",
+    "zh": "国籍",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T29R6-1.svg"
+  },
+  {
+    "id": "T29R7-1",
+    "fr": "pays",
+    "zh": "国家",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T29R7-1.svg"
+  },
+  {
+    "id": "T29R8-1",
+    "fr": "profession",
+    "zh": "职业",
+    "kind": "person",
+    "file": "assets/icons/nouns/T29R8-1.svg"
+  },
+  {
+    "id": "T29R9-1",
+    "fr": "personne",
+    "zh": "一个人",
+    "kind": "person",
+    "file": "assets/icons/nouns/T29R9-1.svg"
+  },
+  {
+    "id": "T29R13-1",
+    "fr": "étudiant",
+    "zh": "大学生",
+    "kind": "person",
+    "file": "assets/icons/nouns/T29R13-1.svg"
+  },
+  {
+    "id": "T29R14-1",
+    "fr": "ami",
+    "zh": "朋友",
+    "kind": "friends",
+    "file": "assets/icons/nouns/T29R14-1.svg"
+  },
+  {
+    "id": "T29R15-1",
+    "fr": "voisin",
+    "zh": "邻居",
+    "kind": "friends",
+    "file": "assets/icons/nouns/T29R15-1.svg"
+  },
+  {
+    "id": "T32R2-1",
+    "fr": "France",
+    "zh": "法国",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T32R2-1.svg"
+  },
+  {
+    "id": "T32R3-1",
+    "fr": "Irlande",
+    "zh": "爱尔兰",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T32R3-1.svg"
+  },
+  {
+    "id": "T32R4-1",
+    "fr": "Angleterre",
+    "zh": "英格兰",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T32R4-1.svg"
+  },
+  {
+    "id": "T32R5-1",
+    "fr": "Allemagne",
+    "zh": "德国",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T32R5-1.svg"
+  },
+  {
+    "id": "T32R6-1",
+    "fr": "Suisse",
+    "zh": "瑞士",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T32R6-1.svg"
+  },
+  {
+    "id": "T32R7-1",
+    "fr": "Italie",
+    "zh": "意大利",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T32R7-1.svg"
+  },
+  {
+    "id": "T32R8-1",
+    "fr": "Espagne",
+    "zh": "西班牙",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T32R8-1.svg"
+  },
+  {
+    "id": "T32R9-1",
+    "fr": "Russie",
+    "zh": "俄罗斯",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T32R9-1.svg"
+  },
+  {
+    "id": "T32R10-1",
+    "fr": "Japon",
+    "zh": "日本",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T32R10-1.svg"
+  },
+  {
+    "id": "T32R11-1",
+    "fr": "Portugal",
+    "zh": "葡萄牙",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T32R11-1.svg"
+  },
+  {
+    "id": "T32R12-1",
+    "fr": "Canada",
+    "zh": "加拿大",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T32R12-1.svg"
+  },
+  {
+    "id": "T32R13-1",
+    "fr": "États-Unis",
+    "zh": "美国",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T32R13-1.svg"
+  },
+  {
+    "id": "T32R14-1",
+    "fr": "Grèce",
+    "zh": "希腊",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T32R14-1.svg"
+  },
+  {
+    "id": "T32R15-1",
+    "fr": "Turquie",
+    "zh": "土耳其",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T32R15-1.svg"
+  },
+  {
+    "id": "T32R16-1",
+    "fr": "Chine",
+    "zh": "中国",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T32R16-1.svg"
+  },
+  {
+    "id": "T35R2-1",
+    "fr": "Belgique",
+    "zh": "比利时",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T35R2-1.svg"
+  },
+  {
+    "id": "T35R3-1",
+    "fr": "Luxembourg",
+    "zh": "卢森堡",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T35R3-1.svg"
+  },
+  {
+    "id": "T35R4-1",
+    "fr": "Guinée",
+    "zh": "几内亚",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T35R4-1.svg"
+  },
+  {
+    "id": "T35R5-1",
+    "fr": "Mali",
+    "zh": "马里",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T35R5-1.svg"
+  },
+  {
+    "id": "T35R6-1",
+    "fr": "Sénégal",
+    "zh": "塞内加尔",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T35R6-1.svg"
+  },
+  {
+    "id": "T35R7-1",
+    "fr": "Comores",
+    "zh": "科摩罗",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T35R7-1.svg"
+  },
+  {
+    "id": "T35R8-1",
+    "fr": "Seychelles",
+    "zh": "塞舌尔",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T35R8-1.svg"
+  },
+  {
+    "id": "T35R9-1",
+    "fr": "Algérie",
+    "zh": "阿尔及利亚",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T35R9-1.svg"
+  },
+  {
+    "id": "T35R10-1",
+    "fr": "Vietnam",
+    "zh": "越南",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T35R10-1.svg"
+  },
+  {
+    "id": "T35R11-1",
+    "fr": "Brésil",
+    "zh": "巴西",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T35R11-1.svg"
+  },
+  {
+    "id": "T35R12-1",
+    "fr": "Corée du Sud",
+    "zh": "韩国",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T35R12-1.svg"
+  },
+  {
+    "id": "T35R13-1",
+    "fr": "Maroc",
+    "zh": "摩洛哥",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T35R13-1.svg"
+  },
+  {
+    "id": "T35R14-1",
+    "fr": "Argentine",
+    "zh": "阿根廷",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T35R14-1.svg"
+  },
+  {
+    "id": "T35R15-1",
+    "fr": "Chili",
+    "zh": "智利",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T35R15-1.svg"
+  },
+  {
+    "id": "T35R16-1",
+    "fr": "Pérou",
+    "zh": "秘鲁",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T35R16-1.svg"
+  },
+  {
+    "id": "T35R17-1",
+    "fr": "Philippines",
+    "zh": "菲律宾",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T35R17-1.svg"
+  },
+  {
+    "id": "T35R18-1",
+    "fr": "Pays-Bas",
+    "zh": "荷兰",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T35R18-1.svg"
+  },
+  {
+    "id": "T35R19-1",
+    "fr": "Kenya",
+    "zh": "肯尼亚",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T35R19-1.svg"
+  },
+  {
+    "id": "T35R20-1",
+    "fr": "Tanzanie",
+    "zh": "坦桑尼亚",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T35R20-1.svg"
+  },
+  {
+    "id": "T35R21-1",
+    "fr": "Sri Lanka",
+    "zh": "斯里兰卡",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T35R21-1.svg"
+  },
+  {
+    "id": "T35R22-1",
+    "fr": "Angola",
+    "zh": "安哥拉",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T35R22-1.svg"
+  },
+  {
+    "id": "T35R23-1",
+    "fr": "Gabon",
+    "zh": "加蓬",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T35R23-1.svg"
+  },
+  {
+    "id": "T35R24-1",
+    "fr": "Liban",
+    "zh": "黎巴嫩",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T35R24-1.svg"
+  },
+  {
+    "id": "T35R25-1",
+    "fr": "Bolivie",
+    "zh": "玻利维亚",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T35R25-1.svg"
+  },
+  {
+    "id": "T35R26-1",
+    "fr": "Inde",
+    "zh": "印度",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T35R26-1.svg"
+  },
+  {
+    "id": "T35R27-1",
+    "fr": "Bénin",
+    "zh": "贝宁",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T35R27-1.svg"
+  },
+  {
+    "id": "T35R28-1",
+    "fr": "Uruguay",
+    "zh": "乌拉圭",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T35R28-1.svg"
+  },
+  {
+    "id": "T35R29-1",
+    "fr": "Colombie",
+    "zh": "哥伦比亚",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T35R29-1.svg"
+  },
+  {
+    "id": "T35R30-1",
+    "fr": "Irak",
+    "zh": "伊拉克",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T35R30-1.svg"
+  },
+  {
+    "id": "T35R31-1",
+    "fr": "Namibie",
+    "zh": "纳米比亚",
+    "kind": "globe",
+    "file": "assets/icons/nouns/T35R31-1.svg"
+  },
+  {
+    "id": "T44R23-1",
+    "fr": "émotion",
+    "zh": "情绪",
+    "kind": "emotion",
+    "file": "assets/icons/nouns/T44R23-1.svg"
+  },
+  {
+    "id": "T55R7-1",
+    "fr": "crayon de couleur",
+    "zh": "彩色铅笔",
+    "kind": "pencil",
+    "file": "assets/icons/nouns/T55R7-1.svg"
+  },
+  {
+    "id": "T55R9-1",
+    "fr": "gomme",
+    "zh": "橡皮",
+    "kind": "eraser",
+    "file": "assets/icons/nouns/T55R9-1.svg"
+  },
+  {
+    "id": "T55R11-1",
+    "fr": "trousse",
+    "zh": "笔袋",
+    "kind": "pouch",
+    "file": "assets/icons/nouns/T55R11-1.svg"
+  },
+  {
+    "id": "T55R12-1",
+    "fr": "agenda",
+    "zh": "日程本",
+    "kind": "calendar",
+    "file": "assets/icons/nouns/T55R12-1.svg"
+  },
+  {
+    "id": "T55R13-1",
+    "fr": "taille-crayon",
+    "zh": "卷笔刀",
+    "kind": "sharpener",
+    "file": "assets/icons/nouns/T55R13-1.svg"
+  },
+  {
+    "id": "T55R14-1",
+    "fr": "bâton de colle",
+    "zh": "固体胶棒",
+    "kind": "glue",
+    "file": "assets/icons/nouns/T55R14-1.svg"
+  },
+  {
+    "id": "T55R16-1",
+    "fr": "ardoise",
+    "zh": "小写字板",
+    "kind": "board",
+    "file": "assets/icons/nouns/T55R16-1.svg"
+  },
+  {
+    "id": "T55R18-1",
+    "fr": "tableau",
+    "zh": "黑板；白板；表格",
+    "kind": "board",
+    "file": "assets/icons/nouns/T55R18-1.svg"
+  },
+  {
+    "id": "T55R19-1",
+    "fr": "table",
+    "zh": "桌子",
+    "kind": "desk",
+    "file": "assets/icons/nouns/T55R19-1.svg"
+  },
+  {
+    "id": "T55R21-1",
+    "fr": "bureau",
+    "zh": "书桌；办公室",
+    "kind": "desk",
+    "file": "assets/icons/nouns/T55R21-1.svg"
+  },
+  {
+    "id": "T55R22-1",
+    "fr": "calculatrice",
+    "zh": "计算器",
+    "kind": "calculator",
+    "file": "assets/icons/nouns/T55R22-1.svg"
+  },
+  {
+    "id": "T55R23-1",
+    "fr": "carte",
+    "zh": "地图；卡片",
+    "kind": "map",
+    "file": "assets/icons/nouns/T55R23-1.svg"
+  },
+  {
+    "id": "T55R24-1",
+    "fr": "question",
+    "zh": "问题",
+    "kind": "question",
+    "file": "assets/icons/nouns/T55R24-1.svg"
+  },
+  {
+    "id": "T55R25-1",
+    "fr": "exercice",
+    "zh": "练习",
+    "kind": "checklist",
+    "file": "assets/icons/nouns/T55R25-1.svg"
+  },
+  {
+    "id": "T55R26-1",
+    "fr": "problème",
+    "zh": "问题；难题",
+    "kind": "question",
+    "file": "assets/icons/nouns/T55R26-1.svg"
+  },
+  {
+    "id": "T58R8-1",
+    "fr": "portefeuille",
+    "zh": "钱包",
+    "kind": "wallet",
+    "file": "assets/icons/nouns/T58R8-1.svg"
+  },
+  {
+    "id": "T58R9-1",
+    "fr": "gourde",
+    "zh": "水壶",
+    "kind": "bottle",
+    "file": "assets/icons/nouns/T58R9-1.svg"
+  },
+  {
+    "id": "T58R11-1",
+    "fr": "casque",
+    "zh": "头戴式耳机；头盔",
+    "kind": "headphones",
+    "file": "assets/icons/nouns/T58R11-1.svg"
+  },
+  {
+    "id": "T58R13-1",
+    "fr": "trousse de maquillage",
+    "zh": "化妆包",
+    "kind": "pouch",
+    "file": "assets/icons/nouns/T58R13-1.svg"
+  },
+  {
+    "id": "T58R17-1",
+    "fr": "magazine",
+    "zh": "杂志",
+    "kind": "book",
+    "file": "assets/icons/nouns/T58R17-1.svg"
+  },
+  {
+    "id": "T58R18-1",
+    "fr": "vêtement",
+    "zh": "衣服",
+    "kind": "shirt",
+    "file": "assets/icons/nouns/T58R18-1.svg"
+  },
+  {
+    "id": "T58R20-1",
+    "fr": "tapis de sport",
+    "zh": "运动垫",
+    "kind": "sports",
+    "file": "assets/icons/nouns/T58R20-1.svg"
+  },
+  {
+    "id": "T58R22-1",
+    "fr": "pièce d’identité",
+    "zh": "身份证件",
+    "kind": "identity",
+    "file": "assets/icons/nouns/T58R22-1.svg"
+  },
+  {
+    "id": "T58R23-1",
+    "fr": "objet",
+    "zh": "物品",
+    "kind": "box",
+    "file": "assets/icons/nouns/T58R23-1.svg"
+  },
+  {
+    "id": "T66R19-1",
+    "fr": "lecture",
+    "zh": "阅读",
+    "kind": "book",
+    "file": "assets/icons/nouns/T66R19-1.svg"
+  },
+  {
+    "id": "T66R20-1",
+    "fr": "peinture",
+    "zh": "绘画",
+    "kind": "art",
+    "file": "assets/icons/nouns/T66R20-1.svg"
+  },
+  {
+    "id": "T66R21-1",
+    "fr": "théâtre",
+    "zh": "戏剧；剧院",
+    "kind": "stage",
+    "file": "assets/icons/nouns/T66R21-1.svg"
+  },
+  {
+    "id": "T66R22-1",
+    "fr": "opéra",
+    "zh": "歌剧；歌剧院",
+    "kind": "music",
+    "file": "assets/icons/nouns/T66R22-1.svg"
+  },
+  {
+    "id": "T66R23-1",
+    "fr": "bande dessinée",
+    "zh": "漫画",
+    "kind": "book",
+    "file": "assets/icons/nouns/T66R23-1.svg"
+  },
+  {
+    "id": "T66R24-1",
+    "fr": "musique classique",
+    "zh": "古典音乐",
+    "kind": "music",
+    "file": "assets/icons/nouns/T66R24-1.svg"
+  },
+  {
+    "id": "T66R25-1",
+    "fr": "rap",
+    "zh": "说唱",
+    "kind": "music",
+    "file": "assets/icons/nouns/T66R25-1.svg"
+  },
+  {
+    "id": "T66R25-2",
+    "fr": "jazz",
+    "zh": "爵士乐",
+    "kind": "music",
+    "file": "assets/icons/nouns/T66R25-2.svg"
+  },
+  {
+    "id": "T66R26-1",
+    "fr": "concert",
+    "zh": "音乐会",
+    "kind": "music",
+    "file": "assets/icons/nouns/T66R26-1.svg"
+  },
+  {
+    "id": "T66R27-1",
+    "fr": "exposition",
+    "zh": "展览",
+    "kind": "art",
+    "file": "assets/icons/nouns/T66R27-1.svg"
+  },
+  {
+    "id": "T66R28-1",
+    "fr": "loisir",
+    "zh": "休闲活动",
+    "kind": "sports",
+    "file": "assets/icons/nouns/T66R28-1.svg"
+  },
+  {
+    "id": "T66R29-1",
+    "fr": "activité",
+    "zh": "活动",
+    "kind": "sports",
+    "file": "assets/icons/nouns/T66R29-1.svg"
+  },
+  {
+    "id": "T69R2-1",
+    "fr": "sport",
+    "zh": "运动",
+    "kind": "sports",
+    "file": "assets/icons/nouns/T69R2-1.svg"
+  },
+  {
+    "id": "T69R12-1",
+    "fr": "pétanque",
+    "zh": "法式滚球",
+    "kind": "balls",
+    "file": "assets/icons/nouns/T69R12-1.svg"
+  },
+  {
+    "id": "T69R15-1",
+    "fr": "course",
+    "zh": "跑步；比赛",
+    "kind": "runner",
+    "file": "assets/icons/nouns/T69R15-1.svg"
+  },
+  {
+    "id": "T69R16-1",
+    "fr": "jogging",
+    "zh": "慢跑",
+    "kind": "runner",
+    "file": "assets/icons/nouns/T69R16-1.svg"
+  },
+  {
+    "id": "T69R16-2",
+    "fr": "footing",
+    "zh": "慢跑",
+    "kind": "runner",
+    "file": "assets/icons/nouns/T69R16-2.svg"
+  },
+  {
+    "id": "T69R17-1",
+    "fr": "randonnée",
+    "zh": "徒步",
+    "kind": "runner",
+    "file": "assets/icons/nouns/T69R17-1.svg"
+  },
+  {
+    "id": "T69R20-1",
+    "fr": "danse",
+    "zh": "舞蹈",
+    "kind": "stage",
+    "file": "assets/icons/nouns/T69R20-1.svg"
+  },
+  {
+    "id": "T69R27-1",
+    "fr": "athlétisme",
+    "zh": "田径",
+    "kind": "runner",
+    "file": "assets/icons/nouns/T69R27-1.svg"
+  },
+  {
+    "id": "T69R29-1",
+    "fr": "musculation",
+    "zh": "力量训练",
+    "kind": "weights",
+    "file": "assets/icons/nouns/T69R29-1.svg"
+  },
+  {
+    "id": "T69R30-1",
+    "fr": "fitness",
+    "zh": "健身",
+    "kind": "weights",
+    "file": "assets/icons/nouns/T69R30-1.svg"
+  },
+  {
+    "id": "T69R31-1",
+    "fr": "voile",
+    "zh": "帆船运动",
+    "kind": "sports",
+    "file": "assets/icons/nouns/T69R31-1.svg"
+  },
+  {
+    "id": "T78R2-1",
+    "fr": "heure",
+    "zh": "小时；钟点",
+    "kind": "clock",
+    "file": "assets/icons/nouns/T78R2-1.svg"
+  },
+  {
+    "id": "T78R3-1",
+    "fr": "minute",
+    "zh": "分钟",
+    "kind": "clock",
+    "file": "assets/icons/nouns/T78R3-1.svg"
+  },
+  {
+    "id": "T78R4-1",
+    "fr": "quart d’heure",
+    "zh": "一刻钟",
+    "kind": "clock",
+    "file": "assets/icons/nouns/T78R4-1.svg"
+  },
+  {
+    "id": "T78R6-1",
+    "fr": "midi",
+    "zh": "中午",
+    "kind": "sun",
+    "file": "assets/icons/nouns/T78R6-1.svg"
+  },
+  {
+    "id": "T78R7-1",
+    "fr": "après-midi",
+    "zh": "下午",
+    "kind": "sun",
+    "file": "assets/icons/nouns/T78R7-1.svg"
+  },
+  {
+    "id": "T78R8-1",
+    "fr": "soir",
+    "zh": "晚上",
+    "kind": "stage",
+    "file": "assets/icons/nouns/T78R8-1.svg"
+  },
+  {
+    "id": "T78R10-1",
+    "fr": "jour",
+    "zh": "日",
+    "kind": "calendar",
+    "file": "assets/icons/nouns/T78R10-1.svg"
+  },
+  {
+    "id": "T78R10-2",
+    "fr": "journée",
+    "zh": "一天的时间",
+    "kind": "calendar",
+    "file": "assets/icons/nouns/T78R10-2.svg"
+  },
+  {
+    "id": "T78R11-1",
+    "fr": "soirée",
+    "zh": "晚上这段时间；晚会",
+    "kind": "stage",
+    "file": "assets/icons/nouns/T78R11-1.svg"
+  },
+  {
+    "id": "T78R12-1",
+    "fr": "semaine",
+    "zh": "周",
+    "kind": "calendar",
+    "file": "assets/icons/nouns/T78R12-1.svg"
+  },
+  {
+    "id": "T78R13-1",
+    "fr": "week-end",
+    "zh": "周末",
+    "kind": "calendar",
+    "file": "assets/icons/nouns/T78R13-1.svg"
+  },
+  {
+    "id": "T78R14-1",
+    "fr": "mois",
+    "zh": "月",
+    "kind": "calendar",
+    "file": "assets/icons/nouns/T78R14-1.svg"
+  },
+  {
+    "id": "T78R15-1",
+    "fr": "année",
+    "zh": "年",
+    "kind": "calendar",
+    "file": "assets/icons/nouns/T78R15-1.svg"
+  },
+  {
+    "id": "T78R16-1",
+    "fr": "date",
+    "zh": "日期",
+    "kind": "calendar",
+    "file": "assets/icons/nouns/T78R16-1.svg"
+  },
+  {
+    "id": "T78R17-1",
+    "fr": "horaire",
+    "zh": "时刻",
+    "kind": "clock",
+    "file": "assets/icons/nouns/T78R17-1.svg"
+  },
+  {
+    "id": "T78R18-1",
+    "fr": "séance",
+    "zh": "电影场次；一节活动",
+    "kind": "film",
+    "file": "assets/icons/nouns/T78R18-1.svg"
+  },
+  {
+    "id": "T78R19-1",
+    "fr": "rendez-vous",
+    "zh": "约会；约定",
+    "kind": "friends",
+    "file": "assets/icons/nouns/T78R19-1.svg"
+  },
+  {
+    "id": "T78R20-1",
+    "fr": "sortie",
+    "zh": "外出活动；出口",
+    "kind": "exit",
+    "file": "assets/icons/nouns/T78R20-1.svg"
+  },
+  {
+    "id": "T78R21-1",
+    "fr": "spectacle",
+    "zh": "演出",
+    "kind": "stage",
+    "file": "assets/icons/nouns/T78R21-1.svg"
+  },
+  {
+    "id": "T78R22-1",
+    "fr": "affiche",
+    "zh": "海报",
+    "kind": "poster",
+    "file": "assets/icons/nouns/T78R22-1.svg"
+  },
+  {
+    "id": "T78R23-1",
+    "fr": "prix",
+    "zh": "价格",
+    "kind": "coin",
+    "file": "assets/icons/nouns/T78R23-1.svg"
+  },
+  {
+    "id": "T78R30-1",
+    "fr": "vacances",
+    "zh": "假期",
+    "kind": "calendar",
+    "file": "assets/icons/nouns/T78R30-1.svg"
+  },
+  {
+    "id": "T78R31-1",
+    "fr": "anniversaire",
+    "zh": "生日；周年纪念",
+    "kind": "cake",
+    "file": "assets/icons/nouns/T78R31-1.svg"
+  },
+  {
+    "id": "T89R2-1",
+    "fr": "saison",
+    "zh": "季节",
+    "kind": "seasons",
+    "file": "assets/icons/nouns/T89R2-1.svg"
+  },
+  {
+    "id": "T89R3-1",
+    "fr": "printemps",
+    "zh": "春天",
+    "kind": "seasons",
+    "file": "assets/icons/nouns/T89R3-1.svg"
+  },
+  {
+    "id": "T89R4-1",
+    "fr": "été",
+    "zh": "夏天",
+    "kind": "seasons",
+    "file": "assets/icons/nouns/T89R4-1.svg"
+  },
+  {
+    "id": "T89R5-1",
+    "fr": "automne",
+    "zh": "秋天",
+    "kind": "seasons",
+    "file": "assets/icons/nouns/T89R5-1.svg"
+  },
+  {
+    "id": "T89R6-1",
+    "fr": "hiver",
+    "zh": "冬天",
+    "kind": "seasons",
+    "file": "assets/icons/nouns/T89R6-1.svg"
+  },
+  {
+    "id": "T89R7-1",
+    "fr": "météo",
+    "zh": "天气；气象预报",
+    "kind": "seasons",
+    "file": "assets/icons/nouns/T89R7-1.svg"
+  },
+  {
+    "id": "T89R8-1",
+    "fr": "temps",
+    "zh": "天气；时间",
+    "kind": "seasons",
+    "file": "assets/icons/nouns/T89R8-1.svg"
+  },
+  {
+    "id": "T89R12-1",
+    "fr": "vent",
+    "zh": "风",
+    "kind": "wind",
+    "file": "assets/icons/nouns/T89R12-1.svg"
+  },
+  {
+    "id": "T89R16-1",
+    "fr": "ciel",
+    "zh": "天空",
+    "kind": "sun",
+    "file": "assets/icons/nouns/T89R16-1.svg"
+  },
+  {
+    "id": "T89R19-1",
+    "fr": "gel",
+    "zh": "冰冻；结霜",
+    "kind": "fridge",
+    "file": "assets/icons/nouns/T89R19-1.svg"
+  },
+  {
+    "id": "T89R22-1",
+    "fr": "degré",
+    "zh": "度",
+    "kind": "measure",
+    "file": "assets/icons/nouns/T89R22-1.svg"
+  },
+  {
+    "id": "T89R33-1",
+    "fr": "nord",
+    "zh": "北",
+    "kind": "compass",
+    "file": "assets/icons/nouns/T89R33-1.svg"
+  },
+  {
+    "id": "T89R33-2",
+    "fr": "sud",
+    "zh": "南",
+    "kind": "compass",
+    "file": "assets/icons/nouns/T89R33-2.svg"
+  },
+  {
+    "id": "T89R34-1",
+    "fr": "est",
+    "zh": "东",
+    "kind": "compass",
+    "file": "assets/icons/nouns/T89R34-1.svg"
+  },
+  {
+    "id": "T89R34-2",
+    "fr": "ouest",
+    "zh": "西",
+    "kind": "compass",
+    "file": "assets/icons/nouns/T89R34-2.svg"
+  },
+  {
+    "id": "T89R35-1",
+    "fr": "destination",
+    "zh": "目的地",
+    "kind": "pin",
+    "file": "assets/icons/nouns/T89R35-1.svg"
+  },
+  {
+    "id": "T89R36-1",
+    "fr": "voyage",
+    "zh": "旅行",
+    "kind": "map",
+    "file": "assets/icons/nouns/T89R36-1.svg"
+  },
+  {
+    "id": "T89R37-1",
+    "fr": "départ",
+    "zh": "出发",
+    "kind": "map",
+    "file": "assets/icons/nouns/T89R37-1.svg"
+  },
+  {
+    "id": "T89R37-2",
+    "fr": "arrivée",
+    "zh": "到达",
+    "kind": "map",
+    "file": "assets/icons/nouns/T89R37-2.svg"
+  },
+  {
+    "id": "T101R2-1",
+    "fr": "ville",
+    "zh": "城市",
+    "kind": "buildings",
+    "file": "assets/icons/nouns/T101R2-1.svg"
+  },
+  {
+    "id": "T101R3-1",
+    "fr": "centre-ville",
+    "zh": "市中心",
+    "kind": "buildings",
+    "file": "assets/icons/nouns/T101R3-1.svg"
+  },
+  {
+    "id": "T101R4-1",
+    "fr": "quartier",
+    "zh": "街区",
+    "kind": "buildings",
+    "file": "assets/icons/nouns/T101R4-1.svg"
+  },
+  {
+    "id": "T101R5-1",
+    "fr": "rue",
+    "zh": "街道",
+    "kind": "road",
+    "file": "assets/icons/nouns/T101R5-1.svg"
+  },
+  {
+    "id": "T101R6-1",
+    "fr": "place",
+    "zh": "广场；位置",
+    "kind": "buildings",
+    "file": "assets/icons/nouns/T101R6-1.svg"
+  },
+  {
+    "id": "T101R7-1",
+    "fr": "boulevard",
+    "zh": "林荫大道；宽阔大道",
+    "kind": "road",
+    "file": "assets/icons/nouns/T101R7-1.svg"
+  },
+  {
+    "id": "T101R8-1",
+    "fr": "parc",
+    "zh": "公园",
+    "kind": "tree",
+    "file": "assets/icons/nouns/T101R8-1.svg"
+  },
+  {
+    "id": "T101R9-1",
+    "fr": "jardin",
+    "zh": "花园",
+    "kind": "tree",
+    "file": "assets/icons/nouns/T101R9-1.svg"
+  },
+  {
+    "id": "T101R10-1",
+    "fr": "fleuve",
+    "zh": "入海的河流",
+    "kind": "river",
+    "file": "assets/icons/nouns/T101R10-1.svg"
+  },
+  {
+    "id": "T101R11-1",
+    "fr": "rivière",
+    "zh": "河流",
+    "kind": "river",
+    "file": "assets/icons/nouns/T101R11-1.svg"
+  },
+  {
+    "id": "T101R12-1",
+    "fr": "quai",
+    "zh": "河岸；码头；站台",
+    "kind": "river",
+    "file": "assets/icons/nouns/T101R12-1.svg"
+  },
+  {
+    "id": "T101R13-1",
+    "fr": "monument",
+    "zh": "名胜建筑；纪念物",
+    "kind": "museum",
+    "file": "assets/icons/nouns/T101R13-1.svg"
+  },
+  {
+    "id": "T101R15-1",
+    "fr": "basilique",
+    "zh": "宗座圣殿；巴西利卡式教堂",
+    "kind": "church",
+    "file": "assets/icons/nouns/T101R15-1.svg"
+  },
+  {
+    "id": "T101R16-1",
+    "fr": "cathédrale",
+    "zh": "主教座堂",
+    "kind": "church",
+    "file": "assets/icons/nouns/T101R16-1.svg"
+  },
+  {
+    "id": "T101R18-1",
+    "fr": "musée",
+    "zh": "博物馆",
+    "kind": "museum",
+    "file": "assets/icons/nouns/T101R18-1.svg"
+  },
+  {
+    "id": "T101R19-1",
+    "fr": "cinéma",
+    "zh": "电影院；电影艺术",
+    "kind": "film",
+    "file": "assets/icons/nouns/T101R19-1.svg"
+  },
+  {
+    "id": "T101R20-1",
+    "fr": "théâtre",
+    "zh": "剧院；戏剧",
+    "kind": "stage",
+    "file": "assets/icons/nouns/T101R20-1.svg"
+  },
+  {
+    "id": "T101R21-1",
+    "fr": "bibliothèque",
+    "zh": "图书馆",
+    "kind": "book",
+    "file": "assets/icons/nouns/T101R21-1.svg"
+  },
+  {
+    "id": "T101R22-1",
+    "fr": "piscine",
+    "zh": "游泳池",
+    "kind": "pool",
+    "file": "assets/icons/nouns/T101R22-1.svg"
+  },
+  {
+    "id": "T101R23-1",
+    "fr": "patinoire",
+    "zh": "溜冰场",
+    "kind": "pool",
+    "file": "assets/icons/nouns/T101R23-1.svg"
+  },
+  {
+    "id": "T101R24-1",
+    "fr": "café",
+    "zh": "咖啡馆；咖啡",
+    "kind": "shop",
+    "file": "assets/icons/nouns/T101R24-1.svg"
+  },
+  {
+    "id": "T101R25-1",
+    "fr": "restaurant",
+    "zh": "餐馆",
+    "kind": "shop",
+    "file": "assets/icons/nouns/T101R25-1.svg"
+  },
+  {
+    "id": "T101R26-1",
+    "fr": "bar",
+    "zh": "酒吧",
+    "kind": "shop",
+    "file": "assets/icons/nouns/T101R26-1.svg"
+  },
+  {
+    "id": "T101R27-1",
+    "fr": "salon de thé",
+    "zh": "茶馆",
+    "kind": "shop",
+    "file": "assets/icons/nouns/T101R27-1.svg"
+  },
+  {
+    "id": "T101R30-1",
+    "fr": "poste",
+    "zh": "邮局；邮政",
+    "kind": "shop",
+    "file": "assets/icons/nouns/T101R30-1.svg"
+  },
+  {
+    "id": "T101R35-1",
+    "fr": "aéroport",
+    "zh": "机场",
+    "kind": "shop",
+    "file": "assets/icons/nouns/T101R35-1.svg"
+  },
+  {
+    "id": "T101R37-1",
+    "fr": "office de tourisme",
+    "zh": "游客咨询处",
+    "kind": "shop",
+    "file": "assets/icons/nouns/T101R37-1.svg"
+  },
+  {
+    "id": "T101R38-1",
+    "fr": "plan",
+    "zh": "地图；平面图",
+    "kind": "map",
+    "file": "assets/icons/nouns/T101R38-1.svg"
+  },
+  {
+    "id": "T101R39-1",
+    "fr": "guide touristique",
+    "zh": "旅游指南",
+    "kind": "book",
+    "file": "assets/icons/nouns/T101R39-1.svg"
+  },
+  {
+    "id": "T101R40-1",
+    "fr": "adresse",
+    "zh": "地址",
+    "kind": "pin",
+    "file": "assets/icons/nouns/T101R40-1.svg"
+  },
+  {
+    "id": "T101R41-1",
+    "fr": "campagne",
+    "zh": "乡村",
+    "kind": "river",
+    "file": "assets/icons/nouns/T101R41-1.svg"
+  },
+  {
+    "id": "T101R42-1",
+    "fr": "région",
+    "zh": "地区",
+    "kind": "map",
+    "file": "assets/icons/nouns/T101R42-1.svg"
+  },
+  {
+    "id": "T112R2-1",
+    "fr": "chemin",
+    "zh": "路；路线",
+    "kind": "road",
+    "file": "assets/icons/nouns/T112R2-1.svg"
+  },
+  {
+    "id": "T112R3-1",
+    "fr": "itinéraire",
+    "zh": "行程路线",
+    "kind": "map",
+    "file": "assets/icons/nouns/T112R3-1.svg"
+  },
+  {
+    "id": "T112R4-1",
+    "fr": "direction",
+    "zh": "方向",
+    "kind": "compass",
+    "file": "assets/icons/nouns/T112R4-1.svg"
+  },
+  {
+    "id": "T112R5-1",
+    "fr": "panneau",
+    "zh": "标志牌",
+    "kind": "poster",
+    "file": "assets/icons/nouns/T112R5-1.svg"
+  },
+  {
+    "id": "T112R6-1",
+    "fr": "moyen de transport",
+    "zh": "交通方式",
+    "kind": "road",
+    "file": "assets/icons/nouns/T112R6-1.svg"
+  },
+  {
+    "id": "T112R7-1",
+    "fr": "transports en commun",
+    "zh": "公共交通",
+    "kind": "road",
+    "file": "assets/icons/nouns/T112R7-1.svg"
+  },
+  {
+    "id": "T112R22-1",
+    "fr": "bateau",
+    "zh": "船",
+    "kind": "boat",
+    "file": "assets/icons/nouns/T112R22-1.svg"
+  },
+  {
+    "id": "T112R26-1",
+    "fr": "covoiturage",
+    "zh": "拼车",
+    "kind": "road",
+    "file": "assets/icons/nouns/T112R26-1.svg"
+  },
+  {
+    "id": "T121R2-1",
+    "fr": "repas",
+    "zh": "一顿饭",
+    "kind": "meal",
+    "file": "assets/icons/nouns/T121R2-1.svg"
+  },
+  {
+    "id": "T121R3-1",
+    "fr": "petit-déjeuner",
+    "zh": "早餐",
+    "kind": "meal",
+    "file": "assets/icons/nouns/T121R3-1.svg"
+  },
+  {
+    "id": "T121R4-1",
+    "fr": "déjeuner",
+    "zh": "午餐",
+    "kind": "meal",
+    "file": "assets/icons/nouns/T121R4-1.svg"
+  },
+  {
+    "id": "T121R5-1",
+    "fr": "dîner",
+    "zh": "晚餐",
+    "kind": "meal",
+    "file": "assets/icons/nouns/T121R5-1.svg"
+  },
+  {
+    "id": "T121R6-1",
+    "fr": "goûter",
+    "zh": "下午加餐；点心",
+    "kind": "sun",
+    "file": "assets/icons/nouns/T121R6-1.svg"
+  },
+  {
+    "id": "T121R7-1",
+    "fr": "aliment",
+    "zh": "食物",
+    "kind": "meal",
+    "file": "assets/icons/nouns/T121R7-1.svg"
+  },
+  {
+    "id": "T121R8-1",
+    "fr": "habitude alimentaire",
+    "zh": "饮食习惯",
+    "kind": "meal",
+    "file": "assets/icons/nouns/T121R8-1.svg"
+  },
+  {
+    "id": "T121R9-1",
+    "fr": "nourriture",
+    "zh": "食物",
+    "kind": "meal",
+    "file": "assets/icons/nouns/T121R9-1.svg"
+  },
+  {
+    "id": "T121R10-1",
+    "fr": "boisson",
+    "zh": "饮料",
+    "kind": "glass",
+    "file": "assets/icons/nouns/T121R10-1.svg"
+  },
+  {
+    "id": "T121R13-1",
+    "fr": "grignotage",
+    "zh": "吃零食的行为",
+    "kind": "meal",
+    "file": "assets/icons/nouns/T121R13-1.svg"
+  },
+  {
+    "id": "T121R14-1",
+    "fr": "fréquence",
+    "zh": "频率",
+    "kind": "frequency",
+    "file": "assets/icons/nouns/T121R14-1.svg"
+  },
+  {
+    "id": "T124R12-1",
+    "fr": "chou-fleur",
+    "zh": "菜花",
+    "kind": "florets",
+    "file": "assets/icons/nouns/T124R12-1.svg"
+  },
+  {
+    "id": "T124R14-1",
+    "fr": "asperge",
+    "zh": "芦笋",
+    "kind": "stalk",
+    "file": "assets/icons/nouns/T124R14-1.svg"
+  },
+  {
+    "id": "T124R15-1",
+    "fr": "haricot vert",
+    "zh": "四季豆",
+    "kind": "pod",
+    "file": "assets/icons/nouns/T124R15-1.svg"
+  },
+  {
+    "id": "T124R18-1",
+    "fr": "radis",
+    "zh": "小萝卜",
+    "kind": "root",
+    "file": "assets/icons/nouns/T124R18-1.svg"
+  },
+  {
+    "id": "T124R19-1",
+    "fr": "poireau",
+    "zh": "韭葱",
+    "kind": "stalk",
+    "file": "assets/icons/nouns/T124R19-1.svg"
+  },
+  {
+    "id": "T124R20-1",
+    "fr": "artichaut",
+    "zh": "洋蓟",
+    "kind": "leaf",
+    "file": "assets/icons/nouns/T124R20-1.svg"
+  },
+  {
+    "id": "T124R21-1",
+    "fr": "potiron",
+    "zh": "南瓜",
+    "kind": "fruit",
+    "file": "assets/icons/nouns/T124R21-1.svg"
+  },
+  {
+    "id": "T124R22-1",
+    "fr": "navet",
+    "zh": "芜菁",
+    "kind": "root",
+    "file": "assets/icons/nouns/T124R22-1.svg"
+  },
+  {
+    "id": "T124R23-1",
+    "fr": "céleri",
+    "zh": "芹菜",
+    "kind": "stalk",
+    "file": "assets/icons/nouns/T124R23-1.svg"
+  },
+  {
+    "id": "T124R24-1",
+    "fr": "chou",
+    "zh": "卷心菜",
+    "kind": "leaf",
+    "file": "assets/icons/nouns/T124R24-1.svg"
+  },
+  {
+    "id": "T124R25-1",
+    "fr": "chou de Bruxelles",
+    "zh": "抱子甘蓝",
+    "kind": "leaf",
+    "file": "assets/icons/nouns/T124R25-1.svg"
+  },
+  {
+    "id": "T124R26-1",
+    "fr": "épinards",
+    "zh": "菠菜",
+    "kind": "leaf",
+    "file": "assets/icons/nouns/T124R26-1.svg"
+  },
+  {
+    "id": "T124R27-1",
+    "fr": "courgette",
+    "zh": "西葫芦",
+    "kind": "fruit",
+    "file": "assets/icons/nouns/T124R27-1.svg"
+  },
+  {
+    "id": "T124R28-1",
+    "fr": "betterave",
+    "zh": "甜菜",
+    "kind": "root",
+    "file": "assets/icons/nouns/T124R28-1.svg"
+  },
+  {
+    "id": "T124R29-1",
+    "fr": "endive",
+    "zh": "菊苣芽",
+    "kind": "leaf",
+    "file": "assets/icons/nouns/T124R29-1.svg"
+  },
+  {
+    "id": "T124R30-1",
+    "fr": "légume",
+    "zh": "蔬菜",
+    "kind": "leaf",
+    "file": "assets/icons/nouns/T124R30-1.svg"
+  },
+  {
+    "id": "T127R16-1",
+    "fr": "abricot",
+    "zh": "杏",
+    "kind": "fruit",
+    "file": "assets/icons/nouns/T127R16-1.svg"
+  },
+  {
+    "id": "T127R18-1",
+    "fr": "figue",
+    "zh": "无花果",
+    "kind": "fruit",
+    "file": "assets/icons/nouns/T127R18-1.svg"
+  },
+  {
+    "id": "T127R19-1",
+    "fr": "pamplemousse",
+    "zh": "葡萄柚",
+    "kind": "citrus",
+    "file": "assets/icons/nouns/T127R19-1.svg"
+  },
+  {
+    "id": "T127R20-1",
+    "fr": "framboise",
+    "zh": "覆盆子",
+    "kind": "berry",
+    "file": "assets/icons/nouns/T127R20-1.svg"
+  },
+  {
+    "id": "T127R21-1",
+    "fr": "clémentine",
+    "zh": "克莱门氏小柑橘",
+    "kind": "citrus",
+    "file": "assets/icons/nouns/T127R21-1.svg"
+  },
+  {
+    "id": "T127R22-1",
+    "fr": "mûre",
+    "zh": "黑莓",
+    "kind": "berry",
+    "file": "assets/icons/nouns/T127R22-1.svg"
+  },
+  {
+    "id": "T127R23-1",
+    "fr": "prune",
+    "zh": "李子",
+    "kind": "fruit",
+    "file": "assets/icons/nouns/T127R23-1.svg"
+  },
+  {
+    "id": "T127R25-1",
+    "fr": "fruit",
+    "zh": "水果",
+    "kind": "fruit",
+    "file": "assets/icons/nouns/T127R25-1.svg"
+  },
+  {
+    "id": "T127R26-1",
+    "fr": "fruit sec",
+    "zh": "干果",
+    "kind": "nut",
+    "file": "assets/icons/nouns/T127R26-1.svg"
+  },
+  {
+    "id": "T130R2-1",
+    "fr": "viande",
+    "zh": "肉",
+    "kind": "meat",
+    "file": "assets/icons/nouns/T130R2-1.svg"
+  },
+  {
+    "id": "T130R3-1",
+    "fr": "bœuf",
+    "zh": "牛；牛肉",
+    "kind": "meat",
+    "file": "assets/icons/nouns/T130R3-1.svg"
+  },
+  {
+    "id": "T130R4-1",
+    "fr": "veau",
+    "zh": "小牛；小牛肉",
+    "kind": "meat",
+    "file": "assets/icons/nouns/T130R4-1.svg"
+  },
+  {
+    "id": "T130R5-1",
+    "fr": "porc",
+    "zh": "猪；猪肉",
+    "kind": "meat",
+    "file": "assets/icons/nouns/T130R5-1.svg"
+  },
+  {
+    "id": "T130R6-1",
+    "fr": "agneau",
+    "zh": "羔羊；羊羔肉",
+    "kind": "meat",
+    "file": "assets/icons/nouns/T130R6-1.svg"
+  },
+  {
+    "id": "T130R7-1",
+    "fr": "poulet",
+    "zh": "鸡；鸡肉",
+    "kind": "drumstick",
+    "file": "assets/icons/nouns/T130R7-1.svg"
+  },
+  {
+    "id": "T130R8-1",
+    "fr": "dinde",
+    "zh": "火鸡；火鸡肉",
+    "kind": "drumstick",
+    "file": "assets/icons/nouns/T130R8-1.svg"
+  },
+  {
+    "id": "T130R9-1",
+    "fr": "canard",
+    "zh": "鸭；鸭肉",
+    "kind": "meat",
+    "file": "assets/icons/nouns/T130R9-1.svg"
+  },
+  {
+    "id": "T130R10-1",
+    "fr": "lapin",
+    "zh": "兔；兔肉",
+    "kind": "meat",
+    "file": "assets/icons/nouns/T130R10-1.svg"
+  },
+  {
+    "id": "T130R12-1",
+    "fr": "volaille",
+    "zh": "禽类；禽肉",
+    "kind": "meat",
+    "file": "assets/icons/nouns/T130R12-1.svg"
+  },
+  {
+    "id": "T130R14-1",
+    "fr": "filet",
+    "zh": "菲力；去骨肉或鱼片",
+    "kind": "meat",
+    "file": "assets/icons/nouns/T130R14-1.svg"
+  },
+  {
+    "id": "T130R15-1",
+    "fr": "côte",
+    "zh": "肋排",
+    "kind": "ribs",
+    "file": "assets/icons/nouns/T130R15-1.svg"
+  },
+  {
+    "id": "T130R15-2",
+    "fr": "côtelette",
+    "zh": "小排",
+    "kind": "ribs",
+    "file": "assets/icons/nouns/T130R15-2.svg"
+  },
+  {
+    "id": "T130R16-1",
+    "fr": "cuisse",
+    "zh": "腿肉",
+    "kind": "drumstick",
+    "file": "assets/icons/nouns/T130R16-1.svg"
+  },
+  {
+    "id": "T130R17-1",
+    "fr": "saucisse",
+    "zh": "香肠",
+    "kind": "sausage",
+    "file": "assets/icons/nouns/T130R17-1.svg"
+  },
+  {
+    "id": "T130R18-1",
+    "fr": "jambon",
+    "zh": "火腿",
+    "kind": "meat",
+    "file": "assets/icons/nouns/T130R18-1.svg"
+  },
+  {
+    "id": "T130R20-1",
+    "fr": "brochette",
+    "zh": "肉串",
+    "kind": "skewer",
+    "file": "assets/icons/nouns/T130R20-1.svg"
+  },
+  {
+    "id": "T130R21-1",
+    "fr": "lardon",
+    "zh": "培根丁",
+    "kind": "meat",
+    "file": "assets/icons/nouns/T130R21-1.svg"
+  },
+  {
+    "id": "T130R22-1",
+    "fr": "gigot",
+    "zh": "羊腿",
+    "kind": "drumstick",
+    "file": "assets/icons/nouns/T130R22-1.svg"
+  },
+  {
+    "id": "T130R23-1",
+    "fr": "faux-filet",
+    "zh": "西冷牛排",
+    "kind": "meat",
+    "file": "assets/icons/nouns/T130R23-1.svg"
+  },
+  {
+    "id": "T130R24-1",
+    "fr": "viande hachée",
+    "zh": "肉馅",
+    "kind": "meat",
+    "file": "assets/icons/nouns/T130R24-1.svg"
+  },
+  {
+    "id": "T130R25-1",
+    "fr": "aile",
+    "zh": "翅膀；翅肉",
+    "kind": "drumstick",
+    "file": "assets/icons/nouns/T130R25-1.svg"
+  },
+  {
+    "id": "T130R26-1",
+    "fr": "poitrine",
+    "zh": "胸肉；猪五花肉等",
+    "kind": "meat",
+    "file": "assets/icons/nouns/T130R26-1.svg"
+  },
+  {
+    "id": "T130R27-1",
+    "fr": "charcuterie",
+    "zh": "猪肉熟食；熟食肉制品",
+    "kind": "meat",
+    "file": "assets/icons/nouns/T130R27-1.svg"
+  },
+  {
+    "id": "T133R2-1",
+    "fr": "pain",
+    "zh": "面包",
+    "kind": "bread",
+    "file": "assets/icons/nouns/T133R2-1.svg"
+  },
+  {
+    "id": "T133R8-1",
+    "fr": "yaourt",
+    "zh": "酸奶",
+    "kind": "jar",
+    "file": "assets/icons/nouns/T133R8-1.svg"
+  },
+  {
+    "id": "T133R10-1",
+    "fr": "crème",
+    "zh": "奶油",
+    "kind": "jar",
+    "file": "assets/icons/nouns/T133R10-1.svg"
+  },
+  {
+    "id": "T133R11-1",
+    "fr": "farine",
+    "zh": "面粉",
+    "kind": "bag",
+    "file": "assets/icons/nouns/T133R11-1.svg"
+  },
+  {
+    "id": "T133R12-1",
+    "fr": "sucre",
+    "zh": "糖",
+    "kind": "cube",
+    "file": "assets/icons/nouns/T133R12-1.svg"
+  },
+  {
+    "id": "T133R14-1",
+    "fr": "poivre",
+    "zh": "胡椒",
+    "kind": "jar",
+    "file": "assets/icons/nouns/T133R14-1.svg"
+  },
+  {
+    "id": "T133R15-1",
+    "fr": "huile",
+    "zh": "油",
+    "kind": "bottle",
+    "file": "assets/icons/nouns/T133R15-1.svg"
+  },
+  {
+    "id": "T133R19-1",
+    "fr": "jus de fruits",
+    "zh": "果汁",
+    "kind": "glass",
+    "file": "assets/icons/nouns/T133R19-1.svg"
+  },
+  {
+    "id": "T133R20-1",
+    "fr": "jus d’orange",
+    "zh": "橙汁",
+    "kind": "glass",
+    "file": "assets/icons/nouns/T133R20-1.svg"
+  },
+  {
+    "id": "T133R21-1",
+    "fr": "soda",
+    "zh": "汽水",
+    "kind": "glass",
+    "file": "assets/icons/nouns/T133R21-1.svg"
+  },
+  {
+    "id": "T133R23-1",
+    "fr": "confiture",
+    "zh": "果酱",
+    "kind": "jar",
+    "file": "assets/icons/nouns/T133R23-1.svg"
+  },
+  {
+    "id": "T133R25-1",
+    "fr": "céréales",
+    "zh": "谷物；早餐谷物",
+    "kind": "meal",
+    "file": "assets/icons/nouns/T133R25-1.svg"
+  },
+  {
+    "id": "T133R26-1",
+    "fr": "compote",
+    "zh": "水果泥；煮水果",
+    "kind": "fruit",
+    "file": "assets/icons/nouns/T133R26-1.svg"
+  },
+  {
+    "id": "T133R27-1",
+    "fr": "bouillon",
+    "zh": "清汤；高汤",
+    "kind": "bowl",
+    "file": "assets/icons/nouns/T133R27-1.svg"
+  },
+  {
+    "id": "T133R28-1",
+    "fr": "soupe",
+    "zh": "汤",
+    "kind": "bowl",
+    "file": "assets/icons/nouns/T133R28-1.svg"
+  },
+  {
+    "id": "T133R31-1",
+    "fr": "crêpe",
+    "zh": "法式薄饼",
+    "kind": "meal",
+    "file": "assets/icons/nouns/T133R31-1.svg"
+  },
+  {
+    "id": "T133R33-1",
+    "fr": "amande",
+    "zh": "杏仁",
+    "kind": "nut",
+    "file": "assets/icons/nouns/T133R33-1.svg"
+  },
+  {
+    "id": "T133R34-1",
+    "fr": "entrée",
+    "zh": "前菜",
+    "kind": "meal",
+    "file": "assets/icons/nouns/T133R34-1.svg"
+  },
+  {
+    "id": "T133R35-1",
+    "fr": "plat",
+    "zh": "菜肴；盘",
+    "kind": "meal",
+    "file": "assets/icons/nouns/T133R35-1.svg"
+  },
+  {
+    "id": "T133R36-1",
+    "fr": "dessert",
+    "zh": "甜点",
+    "kind": "cake",
+    "file": "assets/icons/nouns/T133R36-1.svg"
+  },
+  {
+    "id": "T141R2-1",
+    "fr": "commerce",
+    "zh": "商店；商业",
+    "kind": "shop",
+    "file": "assets/icons/nouns/T141R2-1.svg"
+  },
+  {
+    "id": "T141R3-1",
+    "fr": "magasin",
+    "zh": "商店",
+    "kind": "shop",
+    "file": "assets/icons/nouns/T141R3-1.svg"
+  },
+  {
+    "id": "T141R4-1",
+    "fr": "marché",
+    "zh": "市场",
+    "kind": "shop",
+    "file": "assets/icons/nouns/T141R4-1.svg"
+  },
+  {
+    "id": "T141R5-1",
+    "fr": "supermarché",
+    "zh": "超市",
+    "kind": "shop",
+    "file": "assets/icons/nouns/T141R5-1.svg"
+  },
+  {
+    "id": "T141R6-1",
+    "fr": "boulangerie",
+    "zh": "面包店",
+    "kind": "shop",
+    "file": "assets/icons/nouns/T141R6-1.svg"
+  },
+  {
+    "id": "T141R7-1",
+    "fr": "pâtisserie",
+    "zh": "糕点店；糕点",
+    "kind": "shop",
+    "file": "assets/icons/nouns/T141R7-1.svg"
+  },
+  {
+    "id": "T141R8-1",
+    "fr": "fromagerie",
+    "zh": "奶酪店",
+    "kind": "shop",
+    "file": "assets/icons/nouns/T141R8-1.svg"
+  },
+  {
+    "id": "T141R9-1",
+    "fr": "poissonnerie",
+    "zh": "鱼店",
+    "kind": "shop",
+    "file": "assets/icons/nouns/T141R9-1.svg"
+  },
+  {
+    "id": "T141R10-1",
+    "fr": "boucherie",
+    "zh": "肉店",
+    "kind": "shop",
+    "file": "assets/icons/nouns/T141R10-1.svg"
+  },
+  {
+    "id": "T141R11-1",
+    "fr": "boucherie-charcuterie",
+    "zh": "鲜肉熟食店",
+    "kind": "shop",
+    "file": "assets/icons/nouns/T141R11-1.svg"
+  },
+  {
+    "id": "T141R12-1",
+    "fr": "magasin du traiteur",
+    "zh": "熟食店；餐饮外卖店",
+    "kind": "shop",
+    "file": "assets/icons/nouns/T141R12-1.svg"
+  },
+  {
+    "id": "T141R13-1",
+    "fr": "épicerie",
+    "zh": "食品杂货店",
+    "kind": "shop",
+    "file": "assets/icons/nouns/T141R13-1.svg"
+  },
+  {
+    "id": "T141R14-1",
+    "fr": "chocolaterie",
+    "zh": "巧克力店",
+    "kind": "shop",
+    "file": "assets/icons/nouns/T141R14-1.svg"
+  },
+  {
+    "id": "T141R15-1",
+    "fr": "magasin de fruits et légumes",
+    "zh": "果蔬店",
+    "kind": "shop",
+    "file": "assets/icons/nouns/T141R15-1.svg"
+  },
+  {
+    "id": "T141R16-1",
+    "fr": "librairie",
+    "zh": "书店",
+    "kind": "shop",
+    "file": "assets/icons/nouns/T141R16-1.svg"
+  },
+  {
+    "id": "T141R17-1",
+    "fr": "boutique de fleurs",
+    "zh": "花店",
+    "kind": "shop",
+    "file": "assets/icons/nouns/T141R17-1.svg"
+  },
+  {
+    "id": "T141R18-1",
+    "fr": "bureau de tabac",
+    "zh": "烟草店",
+    "kind": "shop",
+    "file": "assets/icons/nouns/T141R18-1.svg"
+  },
+  {
+    "id": "T141R19-1",
+    "fr": "salon de beauté",
+    "zh": "美容院",
+    "kind": "shop",
+    "file": "assets/icons/nouns/T141R19-1.svg"
+  },
+  {
+    "id": "T141R20-1",
+    "fr": "salon de coiffure",
+    "zh": "理发店",
+    "kind": "shop",
+    "file": "assets/icons/nouns/T141R20-1.svg"
+  },
+  {
+    "id": "T141R21-1",
+    "fr": "boutique de vêtements",
+    "zh": "服装店",
+    "kind": "shop",
+    "file": "assets/icons/nouns/T141R21-1.svg"
+  },
+  {
+    "id": "T141R22-1",
+    "fr": "boutique de chaussures",
+    "zh": "鞋店",
+    "kind": "shop",
+    "file": "assets/icons/nouns/T141R22-1.svg"
+  },
+  {
+    "id": "T141R23-1",
+    "fr": "bijouterie",
+    "zh": "珠宝首饰店",
+    "kind": "shop",
+    "file": "assets/icons/nouns/T141R23-1.svg"
+  },
+  {
+    "id": "T141R24-1",
+    "fr": "parfumerie",
+    "zh": "香水店",
+    "kind": "shop",
+    "file": "assets/icons/nouns/T141R24-1.svg"
+  },
+  {
+    "id": "T141R25-1",
+    "fr": "boutique de souvenirs",
+    "zh": "纪念品店",
+    "kind": "shop",
+    "file": "assets/icons/nouns/T141R25-1.svg"
+  },
+  {
+    "id": "T141R26-1",
+    "fr": "pharmacie",
+    "zh": "药店",
+    "kind": "shop",
+    "file": "assets/icons/nouns/T141R26-1.svg"
+  },
+  {
+    "id": "T141R27-1",
+    "fr": "magasin d’optique",
+    "zh": "眼镜店",
+    "kind": "shop",
+    "file": "assets/icons/nouns/T141R27-1.svg"
+  },
+  {
+    "id": "T141R28-1",
+    "fr": "magasin d’électroménager",
+    "zh": "家电店",
+    "kind": "shop",
+    "file": "assets/icons/nouns/T141R28-1.svg"
+  },
+  {
+    "id": "T141R29-1",
+    "fr": "station-service",
+    "zh": "加油站",
+    "kind": "shop",
+    "file": "assets/icons/nouns/T141R29-1.svg"
+  },
+  {
+    "id": "T141R30-1",
+    "fr": "quincaillerie",
+    "zh": "五金店",
+    "kind": "shop",
+    "file": "assets/icons/nouns/T141R30-1.svg"
+  },
+  {
+    "id": "T141R31-1",
+    "fr": "boutique de maroquinerie",
+    "zh": "皮具店",
+    "kind": "shop",
+    "file": "assets/icons/nouns/T141R31-1.svg"
+  },
+  {
+    "id": "T141R32-1",
+    "fr": "mercerie",
+    "zh": "缝纫用品店",
+    "kind": "shop",
+    "file": "assets/icons/nouns/T141R32-1.svg"
+  },
+  {
+    "id": "T141R33-1",
+    "fr": "atelier du cordonnier",
+    "zh": "修鞋铺",
+    "kind": "shop",
+    "file": "assets/icons/nouns/T141R33-1.svg"
+  },
+  {
+    "id": "T144R2-1",
+    "fr": "commerçant",
+    "zh": "商人；店主",
+    "kind": "shop",
+    "file": "assets/icons/nouns/T144R2-1.svg"
+  },
+  {
+    "id": "T144R3-1",
+    "fr": "client",
+    "zh": "顾客",
+    "kind": "person",
+    "file": "assets/icons/nouns/T144R3-1.svg"
+  },
+  {
+    "id": "T144R4-1",
+    "fr": "marchand",
+    "zh": "商贩",
+    "kind": "person",
+    "file": "assets/icons/nouns/T144R4-1.svg"
+  },
+  {
+    "id": "T144R5-1",
+    "fr": "boulanger",
+    "zh": "面包师或店主",
+    "kind": "shop",
+    "file": "assets/icons/nouns/T144R5-1.svg"
+  },
+  {
+    "id": "T144R6-1",
+    "fr": "pâtissier",
+    "zh": "糕点师",
+    "kind": "person",
+    "file": "assets/icons/nouns/T144R6-1.svg"
+  },
+  {
+    "id": "T144R7-1",
+    "fr": "fromager",
+    "zh": "奶酪商",
+    "kind": "person",
+    "file": "assets/icons/nouns/T144R7-1.svg"
+  },
+  {
+    "id": "T144R8-1",
+    "fr": "poissonnier",
+    "zh": "鱼贩",
+    "kind": "person",
+    "file": "assets/icons/nouns/T144R8-1.svg"
+  },
+  {
+    "id": "T144R9-1",
+    "fr": "boucher",
+    "zh": "肉商",
+    "kind": "person",
+    "file": "assets/icons/nouns/T144R9-1.svg"
+  },
+  {
+    "id": "T144R10-1",
+    "fr": "traiteur",
+    "zh": "熟食或宴席餐饮供应者",
+    "kind": "person",
+    "file": "assets/icons/nouns/T144R10-1.svg"
+  },
+  {
+    "id": "T144R11-1",
+    "fr": "épicier",
+    "zh": "食品杂货商",
+    "kind": "person",
+    "file": "assets/icons/nouns/T144R11-1.svg"
+  },
+  {
+    "id": "T144R12-1",
+    "fr": "chocolatier",
+    "zh": "巧克力制作或销售者",
+    "kind": "person",
+    "file": "assets/icons/nouns/T144R12-1.svg"
+  },
+  {
+    "id": "T144R13-1",
+    "fr": "libraire",
+    "zh": "书商",
+    "kind": "person",
+    "file": "assets/icons/nouns/T144R13-1.svg"
+  },
+  {
+    "id": "T144R14-1",
+    "fr": "fleuriste",
+    "zh": "花商",
+    "kind": "person",
+    "file": "assets/icons/nouns/T144R14-1.svg"
+  },
+  {
+    "id": "T144R15-1",
+    "fr": "buraliste",
+    "zh": "烟草店经营者",
+    "kind": "shop",
+    "file": "assets/icons/nouns/T144R15-1.svg"
+  },
+  {
+    "id": "T144R16-1",
+    "fr": "esthéticien",
+    "zh": "美容师",
+    "kind": "person",
+    "file": "assets/icons/nouns/T144R16-1.svg"
+  },
+  {
+    "id": "T144R17-1",
+    "fr": "coiffeur",
+    "zh": "理发师",
+    "kind": "person",
+    "file": "assets/icons/nouns/T144R17-1.svg"
+  },
+  {
+    "id": "T144R18-1",
+    "fr": "bijoutier",
+    "zh": "珠宝商",
+    "kind": "person",
+    "file": "assets/icons/nouns/T144R18-1.svg"
+  },
+  {
+    "id": "T144R19-1",
+    "fr": "pharmacien",
+    "zh": "药剂师",
+    "kind": "person",
+    "file": "assets/icons/nouns/T144R19-1.svg"
+  },
+  {
+    "id": "T144R20-1",
+    "fr": "opticien",
+    "zh": "眼镜配制销售人员",
+    "kind": "person",
+    "file": "assets/icons/nouns/T144R20-1.svg"
+  },
+  {
+    "id": "T144R21-1",
+    "fr": "cordonnier",
+    "zh": "修鞋匠",
+    "kind": "person",
+    "file": "assets/icons/nouns/T144R21-1.svg"
+  },
+  {
+    "id": "T144R24-2",
+    "fr": "centime",
+    "zh": "欧分",
+    "kind": "coin",
+    "file": "assets/icons/nouns/T144R24-2.svg"
+  },
+  {
+    "id": "T153R2-1",
+    "fr": "recette",
+    "zh": "食谱；做法",
+    "kind": "checklist",
+    "file": "assets/icons/nouns/T153R2-1.svg"
+  },
+  {
+    "id": "T153R3-1",
+    "fr": "ingrédient",
+    "zh": "食材；配料",
+    "kind": "basket",
+    "file": "assets/icons/nouns/T153R3-1.svg"
+  },
+  {
+    "id": "T153R4-1",
+    "fr": "préparation",
+    "zh": "准备；制作",
+    "kind": "checklist",
+    "file": "assets/icons/nouns/T153R4-1.svg"
+  },
+  {
+    "id": "T153R5-1",
+    "fr": "cuisson",
+    "zh": "烹煮过程",
+    "kind": "pot",
+    "file": "assets/icons/nouns/T153R5-1.svg"
+  },
+  {
+    "id": "T153R6-1",
+    "fr": "étape",
+    "zh": "步骤",
+    "kind": "checklist",
+    "file": "assets/icons/nouns/T153R6-1.svg"
+  },
+  {
+    "id": "T153R7-1",
+    "fr": "quantité",
+    "zh": "数量",
+    "kind": "measure",
+    "file": "assets/icons/nouns/T153R7-1.svg"
+  },
+  {
+    "id": "T153R8-1",
+    "fr": "contenant",
+    "zh": "容器",
+    "kind": "jar",
+    "file": "assets/icons/nouns/T153R8-1.svg"
+  },
+  {
+    "id": "T153R9-1",
+    "fr": "liste de courses",
+    "zh": "购物清单",
+    "kind": "basket",
+    "file": "assets/icons/nouns/T153R9-1.svg"
+  },
+  {
+    "id": "T153R10-1",
+    "fr": "kilogramme",
+    "zh": "公斤",
+    "kind": "scale",
+    "file": "assets/icons/nouns/T153R10-1.svg"
+  },
+  {
+    "id": "T153R10-2",
+    "fr": "kilo",
+    "zh": "公斤",
+    "kind": "scale",
+    "file": "assets/icons/nouns/T153R10-2.svg"
+  },
+  {
+    "id": "T153R11-1",
+    "fr": "gramme",
+    "zh": "克",
+    "kind": "scale",
+    "file": "assets/icons/nouns/T153R11-1.svg"
+  },
+  {
+    "id": "T153R12-1",
+    "fr": "litre",
+    "zh": "升",
+    "kind": "measure",
+    "file": "assets/icons/nouns/T153R12-1.svg"
+  },
+  {
+    "id": "T153R13-1",
+    "fr": "millilitre",
+    "zh": "毫升",
+    "kind": "measure",
+    "file": "assets/icons/nouns/T153R13-1.svg"
+  },
+  {
+    "id": "T153R14-1",
+    "fr": "bouteille",
+    "zh": "瓶",
+    "kind": "bottle",
+    "file": "assets/icons/nouns/T153R14-1.svg"
+  },
+  {
+    "id": "T153R15-1",
+    "fr": "verre",
+    "zh": "杯",
+    "kind": "glass",
+    "file": "assets/icons/nouns/T153R15-1.svg"
+  },
+  {
+    "id": "T153R16-1",
+    "fr": "coupe",
+    "zh": "高脚杯；杯状容器",
+    "kind": "jar",
+    "file": "assets/icons/nouns/T153R16-1.svg"
+  },
+  {
+    "id": "T153R17-1",
+    "fr": "pot",
+    "zh": "罐",
+    "kind": "jar",
+    "file": "assets/icons/nouns/T153R17-1.svg"
+  },
+  {
+    "id": "T153R18-1",
+    "fr": "brique",
+    "zh": "纸盒包装",
+    "kind": "box",
+    "file": "assets/icons/nouns/T153R18-1.svg"
+  },
+  {
+    "id": "T153R19-1",
+    "fr": "paquet",
+    "zh": "包",
+    "kind": "box",
+    "file": "assets/icons/nouns/T153R19-1.svg"
+  },
+  {
+    "id": "T153R20-1",
+    "fr": "bol",
+    "zh": "碗",
+    "kind": "bowl",
+    "file": "assets/icons/nouns/T153R20-1.svg"
+  },
+  {
+    "id": "T153R21-1",
+    "fr": "tasse",
+    "zh": "有柄杯",
+    "kind": "cup",
+    "file": "assets/icons/nouns/T153R21-1.svg"
+  },
+  {
+    "id": "T153R22-1",
+    "fr": "cuillère à soupe",
+    "zh": "汤匙",
+    "kind": "bowl",
+    "file": "assets/icons/nouns/T153R22-1.svg"
+  },
+  {
+    "id": "T153R23-1",
+    "fr": "cuillère à café",
+    "zh": "茶匙",
+    "kind": "spoon",
+    "file": "assets/icons/nouns/T153R23-1.svg"
+  },
+  {
+    "id": "T153R24-1",
+    "fr": "pincée",
+    "zh": "一撮",
+    "kind": "hand",
+    "file": "assets/icons/nouns/T153R24-1.svg"
+  },
+  {
+    "id": "T153R25-1",
+    "fr": "poignée",
+    "zh": "一把",
+    "kind": "hand",
+    "file": "assets/icons/nouns/T153R25-1.svg"
+  },
+  {
+    "id": "T153R27-1",
+    "fr": "tablette",
+    "zh": "板状的一块",
+    "kind": "pieces",
+    "file": "assets/icons/nouns/T153R27-1.svg"
+  },
+  {
+    "id": "T153R28-1",
+    "fr": "morceau",
+    "zh": "一块",
+    "kind": "pieces",
+    "file": "assets/icons/nouns/T153R28-1.svg"
+  },
+  {
+    "id": "T153R29-1",
+    "fr": "tranche",
+    "zh": "一片",
+    "kind": "pieces",
+    "file": "assets/icons/nouns/T153R29-1.svg"
+  },
+  {
+    "id": "T153R30-1",
+    "fr": "boîte de conserve",
+    "zh": "罐头",
+    "kind": "jar",
+    "file": "assets/icons/nouns/T153R30-1.svg"
+  },
+  {
+    "id": "T156R2-1",
+    "fr": "ustensile",
+    "zh": "用具；厨具",
+    "kind": "fork",
+    "file": "assets/icons/nouns/T156R2-1.svg"
+  },
+  {
+    "id": "T156R3-1",
+    "fr": "assiette",
+    "zh": "盘子",
+    "kind": "meal",
+    "file": "assets/icons/nouns/T156R3-1.svg"
+  },
+  {
+    "id": "T156R4-1",
+    "fr": "couverts",
+    "zh": "餐具，尤其刀叉勺",
+    "kind": "fork",
+    "file": "assets/icons/nouns/T156R4-1.svg"
+  },
+  {
+    "id": "T156R5-1",
+    "fr": "fourchette",
+    "zh": "叉子",
+    "kind": "fork",
+    "file": "assets/icons/nouns/T156R5-1.svg"
+  },
+  {
+    "id": "T156R8-1",
+    "fr": "casserole",
+    "zh": "深锅；带柄锅",
+    "kind": "pot",
+    "file": "assets/icons/nouns/T156R8-1.svg"
+  },
+  {
+    "id": "T156R9-1",
+    "fr": "poêle",
+    "zh": "平底煎锅",
+    "kind": "pan",
+    "file": "assets/icons/nouns/T156R9-1.svg"
+  },
+  {
+    "id": "T156R10-1",
+    "fr": "cocotte",
+    "zh": "炖锅",
+    "kind": "pot",
+    "file": "assets/icons/nouns/T156R10-1.svg"
+  },
+  {
+    "id": "T156R11-1",
+    "fr": "saladier",
+    "zh": "大沙拉碗",
+    "kind": "bowl",
+    "file": "assets/icons/nouns/T156R11-1.svg"
+  },
+  {
+    "id": "T156R12-1",
+    "fr": "passoire",
+    "zh": "滤盆",
+    "kind": "strainer",
+    "file": "assets/icons/nouns/T156R12-1.svg"
+  },
+  {
+    "id": "T156R13-1",
+    "fr": "plat",
+    "zh": "盛菜器皿；菜肴",
+    "kind": "meal",
+    "file": "assets/icons/nouns/T156R13-1.svg"
+  },
+  {
+    "id": "T156R14-1",
+    "fr": "four",
+    "zh": "烤箱",
+    "kind": "oven",
+    "file": "assets/icons/nouns/T156R14-1.svg"
+  },
+  {
+    "id": "T156R15-1",
+    "fr": "four à micro-ondes",
+    "zh": "微波炉",
+    "kind": "oven",
+    "file": "assets/icons/nouns/T156R15-1.svg"
+  },
+  {
+    "id": "T156R16-1",
+    "fr": "frigo",
+    "zh": "冰箱",
+    "kind": "fridge",
+    "file": "assets/icons/nouns/T156R16-1.svg"
+  },
+  {
+    "id": "T156R16-2",
+    "fr": "réfrigérateur",
+    "zh": "冰箱",
+    "kind": "fridge",
+    "file": "assets/icons/nouns/T156R16-2.svg"
+  },
+  {
+    "id": "T156R17-1",
+    "fr": "congélateur",
+    "zh": "冷冻柜",
+    "kind": "fridge",
+    "file": "assets/icons/nouns/T156R17-1.svg"
+  },
+  {
+    "id": "T156R18-1",
+    "fr": "batteur",
+    "zh": "搅拌器；打蛋器",
+    "kind": "whisk",
+    "file": "assets/icons/nouns/T156R18-1.svg"
+  },
+  {
+    "id": "T156R19-1",
+    "fr": "fouet",
+    "zh": "手动打蛋器",
+    "kind": "whisk",
+    "file": "assets/icons/nouns/T156R19-1.svg"
+  },
+  {
+    "id": "T156R20-1",
+    "fr": "écumoire",
+    "zh": "漏勺",
+    "kind": "strainer",
+    "file": "assets/icons/nouns/T156R20-1.svg"
+  },
+  {
+    "id": "T156R21-1",
+    "fr": "louche",
+    "zh": "长柄汤勺",
+    "kind": "bowl",
+    "file": "assets/icons/nouns/T156R21-1.svg"
+  },
+  {
+    "id": "T156R22-1",
+    "fr": "tablier",
+    "zh": "围裙",
+    "kind": "apron",
+    "file": "assets/icons/nouns/T156R22-1.svg"
+  },
+  {
+    "id": "T156R23-1",
+    "fr": "torchon",
+    "zh": "擦碗布；厨房抹布",
+    "kind": "bowl",
+    "file": "assets/icons/nouns/T156R23-1.svg"
+  },
+  {
+    "id": "T156R25-1",
+    "fr": "spatule",
+    "zh": "刮刀；锅铲",
+    "kind": "spatula",
+    "file": "assets/icons/nouns/T156R25-1.svg"
+  },
+  {
+    "id": "P81-1",
+    "fr": "lundi",
+    "zh": "周一",
+    "kind": "calendar",
+    "file": "assets/icons/nouns/P81-1.svg"
+  },
+  {
+    "id": "P81-2",
+    "fr": "mardi",
+    "zh": "周二",
+    "kind": "calendar",
+    "file": "assets/icons/nouns/P81-2.svg"
+  },
+  {
+    "id": "P81-3",
+    "fr": "mercredi",
+    "zh": "周三",
+    "kind": "calendar",
+    "file": "assets/icons/nouns/P81-3.svg"
+  },
+  {
+    "id": "P81-4",
+    "fr": "jeudi",
+    "zh": "周四",
+    "kind": "calendar",
+    "file": "assets/icons/nouns/P81-4.svg"
+  },
+  {
+    "id": "P81-5",
+    "fr": "vendredi",
+    "zh": "周五",
+    "kind": "calendar",
+    "file": "assets/icons/nouns/P81-5.svg"
+  },
+  {
+    "id": "P81-6",
+    "fr": "samedi",
+    "zh": "周六",
+    "kind": "calendar",
+    "file": "assets/icons/nouns/P81-6.svg"
+  },
+  {
+    "id": "P81-7",
+    "fr": "dimanche",
+    "zh": "周日",
+    "kind": "calendar",
+    "file": "assets/icons/nouns/P81-7.svg"
+  },
+  {
+    "id": "P82-1",
+    "fr": "janvier",
+    "zh": "一月",
+    "kind": "calendar",
+    "file": "assets/icons/nouns/P82-1.svg"
+  },
+  {
+    "id": "P82-2",
+    "fr": "février",
+    "zh": "二月",
+    "kind": "calendar",
+    "file": "assets/icons/nouns/P82-2.svg"
+  },
+  {
+    "id": "P82-3",
+    "fr": "mars",
+    "zh": "三月",
+    "kind": "calendar",
+    "file": "assets/icons/nouns/P82-3.svg"
+  },
+  {
+    "id": "P82-4",
+    "fr": "avril",
+    "zh": "四月",
+    "kind": "calendar",
+    "file": "assets/icons/nouns/P82-4.svg"
+  },
+  {
+    "id": "P82-5",
+    "fr": "mai",
+    "zh": "五月",
+    "kind": "calendar",
+    "file": "assets/icons/nouns/P82-5.svg"
+  },
+  {
+    "id": "P82-6",
+    "fr": "juin",
+    "zh": "六月",
+    "kind": "calendar",
+    "file": "assets/icons/nouns/P82-6.svg"
+  },
+  {
+    "id": "P82-7",
+    "fr": "juillet",
+    "zh": "七月",
+    "kind": "calendar",
+    "file": "assets/icons/nouns/P82-7.svg"
+  },
+  {
+    "id": "P82-8",
+    "fr": "août",
+    "zh": "八月",
+    "kind": "calendar",
+    "file": "assets/icons/nouns/P82-8.svg"
+  },
+  {
+    "id": "P82-9",
+    "fr": "septembre",
+    "zh": "九月",
+    "kind": "calendar",
+    "file": "assets/icons/nouns/P82-9.svg"
+  },
+  {
+    "id": "P82-10",
+    "fr": "octobre",
+    "zh": "十月",
+    "kind": "calendar",
+    "file": "assets/icons/nouns/P82-10.svg"
+  },
+  {
+    "id": "P82-11",
+    "fr": "novembre",
+    "zh": "十一月",
+    "kind": "calendar",
+    "file": "assets/icons/nouns/P82-11.svg"
+  },
+  {
+    "id": "P82-12",
+    "fr": "décembre",
+    "zh": "十二月",
+    "kind": "calendar",
+    "file": "assets/icons/nouns/P82-12.svg"
+  },
+  {
+    "id": "P37-1",
+    "fr": "français",
+    "zh": "法语",
+    "kind": "speech",
+    "file": "assets/icons/nouns/P37-1.svg"
+  },
+  {
+    "id": "P37-2",
+    "fr": "Française",
+    "zh": "法国女性",
+    "kind": "person",
+    "file": "assets/icons/nouns/P37-2.svg"
+  },
+  {
+    "id": "T66R23-2",
+    "fr": "BD",
+    "zh": "漫画",
+    "kind": "book",
+    "file": "assets/icons/nouns/T66R23-2.svg"
+  },
+  {
+    "id": "T66R28-2",
+    "fr": "loisirs",
+    "zh": "休闲活动",
+    "kind": "sports",
+    "file": "assets/icons/nouns/T66R28-2.svg"
+  },
+  {
+    "id": "T66R4-2",
+    "fr": "musique",
+    "zh": "音乐",
+    "kind": "music",
+    "file": "assets/icons/nouns/T66R4-2.svg"
+  },
+  {
+    "id": "T66R5-3",
+    "fr": "film",
+    "zh": "电影",
+    "kind": "film",
+    "file": "assets/icons/nouns/T66R5-3.svg"
+  },
+  {
+    "id": "T66R5-4",
+    "fr": "série",
+    "zh": "剧集",
+    "kind": "film",
+    "file": "assets/icons/nouns/T66R5-4.svg"
+  },
+  {
+    "id": "T66R6-3",
+    "fr": "roman",
+    "zh": "小说",
+    "kind": "book",
+    "file": "assets/icons/nouns/T66R6-3.svg"
+  },
+  {
+    "id": "T66R8-2",
+    "fr": "jeu",
+    "zh": "游戏",
+    "kind": "game",
+    "file": "assets/icons/nouns/T66R8-2.svg"
+  },
+  {
+    "id": "T66R11-2",
+    "fr": "shopping",
+    "zh": "购物",
+    "kind": "basket",
+    "file": "assets/icons/nouns/T66R11-2.svg"
+  },
+  {
+    "id": "T66R12-2",
+    "fr": "photo",
+    "zh": "照片",
+    "kind": "camera",
+    "file": "assets/icons/nouns/T66R12-2.svg"
+  },
+  {
+    "id": "T78R17-2",
+    "fr": "horaires",
+    "zh": "时刻表",
+    "kind": "clock",
+    "file": "assets/icons/nouns/T78R17-2.svg"
+  },
+  {
+    "id": "T127R26-2",
+    "fr": "fruits secs",
+    "zh": "干果",
+    "kind": "nut",
+    "file": "assets/icons/nouns/T127R26-2.svg"
+  },
+  {
+    "id": "T133R4-2",
+    "fr": "pâte",
+    "zh": "面团",
+    "kind": "meal",
+    "file": "assets/icons/nouns/T133R4-2.svg"
+  },
+  {
+    "id": "T144R23-2",
+    "fr": "courses",
+    "zh": "食品或日用品采购",
+    "kind": "basket",
+    "file": "assets/icons/nouns/T144R23-2.svg"
+  }
+]

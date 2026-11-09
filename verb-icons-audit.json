@@ -1,0 +1,1137 @@
+{
+  "mapped": [
+    {
+      "id": "T29R16-1",
+      "fr": "s’appeler",
+      "zh": "叫作",
+      "file": "assets/icons/verbs/action-0.svg"
+    },
+    {
+      "id": "T29R17-1",
+      "fr": "habiter",
+      "zh": "居住",
+      "file": "assets/icons/verbs/action-1.svg"
+    },
+    {
+      "id": "T29R18-1",
+      "fr": "venir de",
+      "zh": "来自",
+      "file": "assets/icons/verbs/action-2.svg"
+    },
+    {
+      "id": "T29R19-1",
+      "fr": "parler",
+      "zh": "说话",
+      "file": "assets/icons/verbs/action-3.svg"
+    },
+    {
+      "id": "T66R2-1",
+      "fr": "aimer",
+      "zh": "喜欢",
+      "file": "assets/icons/verbs/action-4.svg"
+    },
+    {
+      "id": "T66R2-2",
+      "fr": "adorer",
+      "zh": "非常喜欢",
+      "file": "assets/icons/verbs/action-5.svg"
+    },
+    {
+      "id": "T66R2-3",
+      "fr": "détester",
+      "zh": "讨厌",
+      "file": "assets/icons/verbs/action-6.svg"
+    },
+    {
+      "id": "T66R3-1",
+      "fr": "préférer",
+      "zh": "更喜欢",
+      "file": "assets/icons/verbs/action-7.svg"
+    },
+    {
+      "id": "T66R4-1",
+      "fr": "écouter de la musique",
+      "zh": "听音乐",
+      "file": "assets/icons/verbs/action-8.svg"
+    },
+    {
+      "id": "T66R5-1",
+      "fr": "regarder un film",
+      "zh": "看电影",
+      "file": "assets/icons/verbs/action-9.svg"
+    },
+    {
+      "id": "T66R5-2",
+      "fr": "regarder une série",
+      "zh": "看剧集",
+      "file": "assets/icons/verbs/action-10.svg"
+    },
+    {
+      "id": "T66R6-1",
+      "fr": "lire un livre",
+      "zh": "读书",
+      "file": "assets/icons/verbs/action-11.svg"
+    },
+    {
+      "id": "T66R6-2",
+      "fr": "lire un roman",
+      "zh": "读小说",
+      "file": "assets/icons/verbs/action-12.svg"
+    },
+    {
+      "id": "T66R7-1",
+      "fr": "jouer aux cartes",
+      "zh": "打牌",
+      "file": "assets/icons/verbs/action-13.svg"
+    },
+    {
+      "id": "T66R8-1",
+      "fr": "jouer aux jeux vidéo",
+      "zh": "玩电子游戏",
+      "file": "assets/icons/verbs/action-14.svg"
+    },
+    {
+      "id": "T66R9-1",
+      "fr": "dessiner",
+      "zh": "画画",
+      "file": "assets/icons/verbs/action-15.svg"
+    },
+    {
+      "id": "T66R9-2",
+      "fr": "chanter",
+      "zh": "唱歌",
+      "file": "assets/icons/verbs/action-16.svg"
+    },
+    {
+      "id": "T66R9-3",
+      "fr": "danser",
+      "zh": "跳舞",
+      "file": "assets/icons/verbs/action-17.svg"
+    },
+    {
+      "id": "T66R10-1",
+      "fr": "cuisiner",
+      "zh": "做饭",
+      "file": "assets/icons/verbs/action-18.svg"
+    },
+    {
+      "id": "T66R11-1",
+      "fr": "faire du shopping",
+      "zh": "购物",
+      "file": "assets/icons/verbs/action-19.svg"
+    },
+    {
+      "id": "T66R12-1",
+      "fr": "prendre des photos",
+      "zh": "拍照",
+      "file": "assets/icons/verbs/action-20.svg"
+    },
+    {
+      "id": "T66R13-1",
+      "fr": "voyager",
+      "zh": "旅行",
+      "file": "assets/icons/verbs/action-21.svg"
+    },
+    {
+      "id": "T66R14-1",
+      "fr": "sortir avec des amis",
+      "zh": "和朋友外出",
+      "file": "assets/icons/verbs/action-22.svg"
+    },
+    {
+      "id": "T66R15-1",
+      "fr": "se promener",
+      "zh": "散步",
+      "file": "assets/icons/verbs/action-23.svg"
+    },
+    {
+      "id": "T66R16-1",
+      "fr": "se détendre",
+      "zh": "放松",
+      "file": "assets/icons/verbs/action-24.svg"
+    },
+    {
+      "id": "T66R17-1",
+      "fr": "bricoler",
+      "zh": "做手工或修修补补",
+      "file": "assets/icons/verbs/action-25.svg"
+    },
+    {
+      "id": "T66R17-2",
+      "fr": "créer",
+      "zh": "创作",
+      "file": "assets/icons/verbs/action-26.svg"
+    },
+    {
+      "id": "T66R18-1",
+      "fr": "marcher",
+      "zh": "走路",
+      "file": "assets/icons/verbs/action-27.svg"
+    },
+    {
+      "id": "T66R18-2",
+      "fr": "courir",
+      "zh": "跑步",
+      "file": "assets/icons/verbs/action-28.svg"
+    },
+    {
+      "id": "T89R32-1",
+      "fr": "pleuvoir",
+      "zh": "下雨",
+      "file": "assets/icons/verbs/action-29.svg"
+    },
+    {
+      "id": "T89R32-2",
+      "fr": "neiger",
+      "zh": "下雪",
+      "file": "assets/icons/verbs/action-30.svg"
+    },
+    {
+      "id": "T89R32-3",
+      "fr": "geler",
+      "zh": "结冰",
+      "file": "assets/icons/verbs/action-31.svg"
+    },
+    {
+      "id": "T104R11-1",
+      "fr": "découvrir",
+      "zh": "发现；了解",
+      "file": "assets/icons/verbs/action-32.svg"
+    },
+    {
+      "id": "T104R12-1",
+      "fr": "visiter",
+      "zh": "参观",
+      "file": "assets/icons/verbs/action-33.svg"
+    },
+    {
+      "id": "T104R13-1",
+      "fr": "connaître",
+      "zh": "认识；了解",
+      "file": "assets/icons/verbs/action-34.svg"
+    },
+    {
+      "id": "T104R14-1",
+      "fr": "chercher",
+      "zh": "寻找",
+      "file": "assets/icons/verbs/action-35.svg"
+    },
+    {
+      "id": "T104R14-2",
+      "fr": "trouver",
+      "zh": "找到",
+      "file": "assets/icons/verbs/action-36.svg"
+    },
+    {
+      "id": "T112R28-1",
+      "fr": "aller",
+      "zh": "去",
+      "file": "assets/icons/verbs/action-37.svg"
+    },
+    {
+      "id": "T112R28-2",
+      "fr": "prendre",
+      "zh": "乘坐；走某条路",
+      "file": "assets/icons/verbs/action-39.svg"
+    },
+    {
+      "id": "T112R29-1",
+      "fr": "tourner",
+      "zh": "转弯",
+      "file": "assets/icons/verbs/action-40.svg"
+    },
+    {
+      "id": "T112R29-2",
+      "fr": "continuer",
+      "zh": "继续",
+      "file": "assets/icons/verbs/action-41.svg"
+    },
+    {
+      "id": "T112R30-1",
+      "fr": "traverser",
+      "zh": "穿过",
+      "file": "assets/icons/verbs/action-42.svg"
+    },
+    {
+      "id": "T112R32-1",
+      "fr": "sortir",
+      "zh": "出去",
+      "file": "assets/icons/verbs/action-43.svg"
+    },
+    {
+      "id": "T112R32-2",
+      "fr": "partir",
+      "zh": "出发",
+      "file": "assets/icons/verbs/action-44.svg"
+    },
+    {
+      "id": "T112R32-3",
+      "fr": "arriver",
+      "zh": "到达",
+      "file": "assets/icons/verbs/action-45.svg"
+    },
+    {
+      "id": "T121R11-1",
+      "fr": "manger",
+      "zh": "吃",
+      "file": "assets/icons/verbs/action-46.svg"
+    },
+    {
+      "id": "T121R11-2",
+      "fr": "boire",
+      "zh": "喝",
+      "file": "assets/icons/verbs/action-47.svg"
+    },
+    {
+      "id": "T121R12-1",
+      "fr": "grignoter",
+      "zh": "吃零食；零碎地吃",
+      "file": "assets/icons/verbs/action-48.svg"
+    },
+    {
+      "id": "T144R22-1",
+      "fr": "acheter",
+      "zh": "购买",
+      "file": "assets/icons/verbs/action-19.svg"
+    },
+    {
+      "id": "T144R23-1",
+      "fr": "faire les courses",
+      "zh": "买食品或日用品",
+      "file": "assets/icons/verbs/action-19.svg"
+    },
+    {
+      "id": "T159R2-1",
+      "fr": "nettoyer",
+      "zh": "清洁",
+      "file": "assets/icons/verbs/action-49.svg"
+    },
+    {
+      "id": "T159R2-2",
+      "fr": "laver",
+      "zh": "清洗",
+      "file": "assets/icons/verbs/action-50.svg"
+    },
+    {
+      "id": "T159R2-3",
+      "fr": "rincer",
+      "zh": "冲洗",
+      "file": "assets/icons/verbs/action-51.svg"
+    },
+    {
+      "id": "T159R3-1",
+      "fr": "éplucher",
+      "zh": "削皮",
+      "file": "assets/icons/verbs/action-52.svg"
+    },
+    {
+      "id": "T159R3-2",
+      "fr": "peler",
+      "zh": "去皮",
+      "file": "assets/icons/verbs/action-52.svg"
+    },
+    {
+      "id": "T159R4-1",
+      "fr": "couper",
+      "zh": "切",
+      "file": "assets/icons/verbs/action-53.svg"
+    },
+    {
+      "id": "T159R5-1",
+      "fr": "ajouter",
+      "zh": "加入",
+      "file": "assets/icons/verbs/action-54.svg"
+    },
+    {
+      "id": "T159R6-1",
+      "fr": "mélanger",
+      "zh": "混合搅拌",
+      "file": "assets/icons/verbs/action-55.svg"
+    },
+    {
+      "id": "T159R6-2",
+      "fr": "remuer",
+      "zh": "搅动",
+      "file": "assets/icons/verbs/action-55.svg"
+    },
+    {
+      "id": "T159R7-1",
+      "fr": "verser",
+      "zh": "倒入",
+      "file": "assets/icons/verbs/action-56.svg"
+    },
+    {
+      "id": "T159R8-1",
+      "fr": "casser",
+      "zh": "打破",
+      "file": "assets/icons/verbs/action-57.svg"
+    },
+    {
+      "id": "T159R9-1",
+      "fr": "cuire",
+      "zh": "烹煮",
+      "file": "assets/icons/verbs/action-58.svg"
+    },
+    {
+      "id": "T159R9-2",
+      "fr": "faire cuire",
+      "zh": "把……煮熟",
+      "file": "assets/icons/verbs/action-58.svg"
+    },
+    {
+      "id": "T159R10-1",
+      "fr": "frire",
+      "zh": "油炸；煎",
+      "file": "assets/icons/verbs/action-59.svg"
+    },
+    {
+      "id": "T159R11-1",
+      "fr": "faire bouillir",
+      "zh": "煮沸",
+      "file": "assets/icons/verbs/action-60.svg"
+    },
+    {
+      "id": "T159R12-1",
+      "fr": "griller",
+      "zh": "烧烤；烤制",
+      "file": "assets/icons/verbs/action-61.svg"
+    },
+    {
+      "id": "T159R13-1",
+      "fr": "rôtir",
+      "zh": "烘烤肉类等",
+      "file": "assets/icons/verbs/action-62.svg"
+    },
+    {
+      "id": "T159R14-1",
+      "fr": "chauffer",
+      "zh": "加热",
+      "file": "assets/icons/verbs/action-63.svg"
+    },
+    {
+      "id": "T159R14-2",
+      "fr": "réchauffer",
+      "zh": "重新加热",
+      "file": "assets/icons/verbs/action-64.svg"
+    },
+    {
+      "id": "T159R15-1",
+      "fr": "faire refroidir",
+      "zh": "使冷却",
+      "file": "assets/icons/verbs/action-65.svg"
+    },
+    {
+      "id": "T159R16-1",
+      "fr": "battre",
+      "zh": "打散；搅打",
+      "file": "assets/icons/verbs/action-66.svg"
+    },
+    {
+      "id": "T159R17-1",
+      "fr": "beurrer",
+      "zh": "涂黄油",
+      "file": "assets/icons/verbs/action-67.svg"
+    },
+    {
+      "id": "T159R18-1",
+      "fr": "décorer",
+      "zh": "装饰",
+      "file": "assets/icons/verbs/action-68.svg"
+    },
+    {
+      "id": "T159R19-1",
+      "fr": "râper",
+      "zh": "擦成丝或碎屑",
+      "file": "assets/icons/verbs/action-69.svg"
+    },
+    {
+      "id": "T159R20-1",
+      "fr": "égoutter",
+      "zh": "沥干",
+      "file": "assets/icons/verbs/action-70.svg"
+    },
+    {
+      "id": "T159R21-1",
+      "fr": "farcir",
+      "zh": "填馅",
+      "file": "assets/icons/verbs/action-71.svg"
+    },
+    {
+      "id": "T159R22-1",
+      "fr": "mixer",
+      "zh": "用机器搅打",
+      "file": "assets/icons/verbs/action-72.svg"
+    },
+    {
+      "id": "T159R23-1",
+      "fr": "saler",
+      "zh": "放盐",
+      "file": "assets/icons/verbs/action-73.svg"
+    },
+    {
+      "id": "T159R23-2",
+      "fr": "poivrer",
+      "zh": "放胡椒",
+      "file": "assets/icons/verbs/action-74.svg"
+    },
+    {
+      "id": "T159R24-1",
+      "fr": "servir",
+      "zh": "上菜；供应",
+      "file": "assets/icons/verbs/action-75.svg"
+    },
+    {
+      "id": "T159R25-1",
+      "fr": "mettre au bain-marie",
+      "zh": "隔水加热",
+      "file": "assets/icons/verbs/action-76.svg"
+    },
+    {
+      "id": "T159R26-1",
+      "fr": "placer",
+      "zh": "放置",
+      "file": "assets/icons/verbs/action-77.svg"
+    },
+    {
+      "id": "T186R3-1",
+      "fr": "avoir",
+      "zh": "有",
+      "file": "assets/icons/verbs/action-78.svg"
+    },
+    {
+      "id": "T186R3-2",
+      "fr": "ai",
+      "zh": "有",
+      "file": "assets/icons/verbs/action-78.svg"
+    },
+    {
+      "id": "T186R3-3",
+      "fr": "as",
+      "zh": "有",
+      "file": "assets/icons/verbs/action-78.svg"
+    },
+    {
+      "id": "T186R3-4",
+      "fr": "a",
+      "zh": "有",
+      "file": "assets/icons/verbs/action-78.svg"
+    },
+    {
+      "id": "T186R3-5",
+      "fr": "avons",
+      "zh": "有",
+      "file": "assets/icons/verbs/action-78.svg"
+    },
+    {
+      "id": "T186R3-6",
+      "fr": "avez",
+      "zh": "有",
+      "file": "assets/icons/verbs/action-78.svg"
+    },
+    {
+      "id": "T186R3-7",
+      "fr": "ont",
+      "zh": "有",
+      "file": "assets/icons/verbs/action-78.svg"
+    },
+    {
+      "id": "T186R4-1",
+      "fr": "aller",
+      "zh": "去",
+      "file": "assets/icons/verbs/action-37.svg"
+    },
+    {
+      "id": "T186R4-2",
+      "fr": "vais",
+      "zh": "去",
+      "file": "assets/icons/verbs/action-37.svg"
+    },
+    {
+      "id": "T186R4-3",
+      "fr": "vas",
+      "zh": "去",
+      "file": "assets/icons/verbs/action-37.svg"
+    },
+    {
+      "id": "T186R4-4",
+      "fr": "va",
+      "zh": "去",
+      "file": "assets/icons/verbs/action-37.svg"
+    },
+    {
+      "id": "T186R4-5",
+      "fr": "allons",
+      "zh": "去",
+      "file": "assets/icons/verbs/action-37.svg"
+    },
+    {
+      "id": "T186R4-6",
+      "fr": "allez",
+      "zh": "去",
+      "file": "assets/icons/verbs/action-37.svg"
+    },
+    {
+      "id": "T186R4-7",
+      "fr": "vont",
+      "zh": "去",
+      "file": "assets/icons/verbs/action-37.svg"
+    },
+    {
+      "id": "T186R6-1",
+      "fr": "vouloir",
+      "zh": "想要",
+      "file": "assets/icons/verbs/action-79.svg"
+    },
+    {
+      "id": "T186R6-2",
+      "fr": "veux",
+      "zh": "想要",
+      "file": "assets/icons/verbs/action-79.svg"
+    },
+    {
+      "id": "T186R6-3",
+      "fr": "veux",
+      "zh": "想要",
+      "file": "assets/icons/verbs/action-79.svg"
+    },
+    {
+      "id": "T186R6-4",
+      "fr": "veut",
+      "zh": "想要",
+      "file": "assets/icons/verbs/action-79.svg"
+    },
+    {
+      "id": "T186R6-5",
+      "fr": "voulons",
+      "zh": "想要",
+      "file": "assets/icons/verbs/action-79.svg"
+    },
+    {
+      "id": "T186R6-6",
+      "fr": "voulez",
+      "zh": "想要",
+      "file": "assets/icons/verbs/action-79.svg"
+    },
+    {
+      "id": "T186R6-7",
+      "fr": "veulent",
+      "zh": "想要",
+      "file": "assets/icons/verbs/action-79.svg"
+    },
+    {
+      "id": "T186R7-1",
+      "fr": "venir",
+      "zh": "来",
+      "file": "assets/icons/verbs/action-38.svg"
+    },
+    {
+      "id": "T186R7-2",
+      "fr": "viens",
+      "zh": "来",
+      "file": "assets/icons/verbs/action-38.svg"
+    },
+    {
+      "id": "T186R7-3",
+      "fr": "viens",
+      "zh": "来",
+      "file": "assets/icons/verbs/action-38.svg"
+    },
+    {
+      "id": "T186R7-4",
+      "fr": "vient",
+      "zh": "来",
+      "file": "assets/icons/verbs/action-38.svg"
+    },
+    {
+      "id": "T186R7-5",
+      "fr": "venons",
+      "zh": "来",
+      "file": "assets/icons/verbs/action-38.svg"
+    },
+    {
+      "id": "T186R7-6",
+      "fr": "venez",
+      "zh": "来",
+      "file": "assets/icons/verbs/action-38.svg"
+    },
+    {
+      "id": "T186R7-7",
+      "fr": "viennent",
+      "zh": "来",
+      "file": "assets/icons/verbs/action-38.svg"
+    },
+    {
+      "id": "T186R9-1",
+      "fr": "boire",
+      "zh": "喝",
+      "file": "assets/icons/verbs/action-47.svg"
+    },
+    {
+      "id": "T186R9-2",
+      "fr": "bois",
+      "zh": "喝",
+      "file": "assets/icons/verbs/action-47.svg"
+    },
+    {
+      "id": "T186R9-3",
+      "fr": "bois",
+      "zh": "喝",
+      "file": "assets/icons/verbs/action-47.svg"
+    },
+    {
+      "id": "T186R9-4",
+      "fr": "boit",
+      "zh": "喝",
+      "file": "assets/icons/verbs/action-47.svg"
+    },
+    {
+      "id": "T186R9-5",
+      "fr": "buvons",
+      "zh": "喝",
+      "file": "assets/icons/verbs/action-47.svg"
+    },
+    {
+      "id": "T186R9-6",
+      "fr": "buvez",
+      "zh": "喝",
+      "file": "assets/icons/verbs/action-47.svg"
+    },
+    {
+      "id": "T186R9-7",
+      "fr": "boivent",
+      "zh": "喝",
+      "file": "assets/icons/verbs/action-47.svg"
+    },
+    {
+      "id": "T186R10-1",
+      "fr": "manger",
+      "zh": "吃",
+      "file": "assets/icons/verbs/action-46.svg"
+    },
+    {
+      "id": "T186R10-2",
+      "fr": "mange",
+      "zh": "吃",
+      "file": "assets/icons/verbs/action-46.svg"
+    },
+    {
+      "id": "T186R10-3",
+      "fr": "manges",
+      "zh": "吃",
+      "file": "assets/icons/verbs/action-46.svg"
+    },
+    {
+      "id": "T186R10-4",
+      "fr": "mange",
+      "zh": "吃",
+      "file": "assets/icons/verbs/action-46.svg"
+    },
+    {
+      "id": "T186R10-5",
+      "fr": "mangeons",
+      "zh": "吃",
+      "file": "assets/icons/verbs/action-46.svg"
+    },
+    {
+      "id": "T186R10-6",
+      "fr": "mangez",
+      "zh": "吃",
+      "file": "assets/icons/verbs/action-46.svg"
+    },
+    {
+      "id": "T186R10-7",
+      "fr": "mangent",
+      "zh": "吃",
+      "file": "assets/icons/verbs/action-46.svg"
+    },
+    {
+      "id": "T186R11-1",
+      "fr": "connaître",
+      "zh": "认识、了解",
+      "file": "assets/icons/verbs/action-34.svg"
+    },
+    {
+      "id": "T186R11-2",
+      "fr": "connais",
+      "zh": "认识、了解",
+      "file": "assets/icons/verbs/action-34.svg"
+    },
+    {
+      "id": "T186R11-3",
+      "fr": "connais",
+      "zh": "认识、了解",
+      "file": "assets/icons/verbs/action-34.svg"
+    },
+    {
+      "id": "T186R11-4",
+      "fr": "connaît",
+      "zh": "认识、了解",
+      "file": "assets/icons/verbs/action-34.svg"
+    },
+    {
+      "id": "T186R11-5",
+      "fr": "connaissons",
+      "zh": "认识、了解",
+      "file": "assets/icons/verbs/action-34.svg"
+    },
+    {
+      "id": "T186R11-6",
+      "fr": "connaissez",
+      "zh": "认识、了解",
+      "file": "assets/icons/verbs/action-34.svg"
+    },
+    {
+      "id": "T186R11-7",
+      "fr": "connaissent",
+      "zh": "认识、了解",
+      "file": "assets/icons/verbs/action-34.svg"
+    },
+    {
+      "id": "T186R12-1",
+      "fr": "pouvoir",
+      "zh": "能、可以",
+      "file": "assets/icons/verbs/action-80.svg"
+    },
+    {
+      "id": "T186R12-2",
+      "fr": "peux",
+      "zh": "能、可以",
+      "file": "assets/icons/verbs/action-80.svg"
+    },
+    {
+      "id": "T186R12-3",
+      "fr": "peux",
+      "zh": "能、可以",
+      "file": "assets/icons/verbs/action-80.svg"
+    },
+    {
+      "id": "T186R12-4",
+      "fr": "peut",
+      "zh": "能、可以",
+      "file": "assets/icons/verbs/action-80.svg"
+    },
+    {
+      "id": "T186R12-5",
+      "fr": "pouvons",
+      "zh": "能、可以",
+      "file": "assets/icons/verbs/action-80.svg"
+    },
+    {
+      "id": "T186R12-6",
+      "fr": "pouvez",
+      "zh": "能、可以",
+      "file": "assets/icons/verbs/action-80.svg"
+    },
+    {
+      "id": "T186R12-7",
+      "fr": "peuvent",
+      "zh": "能、可以",
+      "file": "assets/icons/verbs/action-80.svg"
+    },
+    {
+      "id": "T186R13-1",
+      "fr": "aimer",
+      "zh": "喜欢",
+      "file": "assets/icons/verbs/action-4.svg"
+    },
+    {
+      "id": "T186R13-2",
+      "fr": "aime",
+      "zh": "喜欢",
+      "file": "assets/icons/verbs/action-4.svg"
+    },
+    {
+      "id": "T186R13-3",
+      "fr": "aimes",
+      "zh": "喜欢",
+      "file": "assets/icons/verbs/action-4.svg"
+    },
+    {
+      "id": "T186R13-4",
+      "fr": "aime",
+      "zh": "喜欢",
+      "file": "assets/icons/verbs/action-4.svg"
+    },
+    {
+      "id": "T186R13-5",
+      "fr": "aimons",
+      "zh": "喜欢",
+      "file": "assets/icons/verbs/action-4.svg"
+    },
+    {
+      "id": "T186R13-6",
+      "fr": "aimez",
+      "zh": "喜欢",
+      "file": "assets/icons/verbs/action-4.svg"
+    },
+    {
+      "id": "T186R13-7",
+      "fr": "aiment",
+      "zh": "喜欢",
+      "file": "assets/icons/verbs/action-4.svg"
+    },
+    {
+      "id": "T186R14-1",
+      "fr": "préférer",
+      "zh": "更喜欢",
+      "file": "assets/icons/verbs/action-7.svg"
+    },
+    {
+      "id": "T186R14-2",
+      "fr": "préfère",
+      "zh": "更喜欢",
+      "file": "assets/icons/verbs/action-7.svg"
+    },
+    {
+      "id": "T186R14-3",
+      "fr": "préfères",
+      "zh": "更喜欢",
+      "file": "assets/icons/verbs/action-7.svg"
+    },
+    {
+      "id": "T186R14-4",
+      "fr": "préfère",
+      "zh": "更喜欢",
+      "file": "assets/icons/verbs/action-7.svg"
+    },
+    {
+      "id": "T186R14-5",
+      "fr": "préférons",
+      "zh": "更喜欢",
+      "file": "assets/icons/verbs/action-7.svg"
+    },
+    {
+      "id": "T186R14-6",
+      "fr": "préférez",
+      "zh": "更喜欢",
+      "file": "assets/icons/verbs/action-7.svg"
+    },
+    {
+      "id": "T186R14-7",
+      "fr": "préfèrent",
+      "zh": "更喜欢",
+      "file": "assets/icons/verbs/action-7.svg"
+    },
+    {
+      "id": "T186R15-1",
+      "fr": "acheter",
+      "zh": "购买",
+      "file": "assets/icons/verbs/action-19.svg"
+    },
+    {
+      "id": "T186R15-2",
+      "fr": "achète",
+      "zh": "购买",
+      "file": "assets/icons/verbs/action-19.svg"
+    },
+    {
+      "id": "T186R15-3",
+      "fr": "achètes",
+      "zh": "购买",
+      "file": "assets/icons/verbs/action-19.svg"
+    },
+    {
+      "id": "T186R15-4",
+      "fr": "achète",
+      "zh": "购买",
+      "file": "assets/icons/verbs/action-19.svg"
+    },
+    {
+      "id": "T186R15-5",
+      "fr": "achetons",
+      "zh": "购买",
+      "file": "assets/icons/verbs/action-19.svg"
+    },
+    {
+      "id": "T186R15-6",
+      "fr": "achetez",
+      "zh": "购买",
+      "file": "assets/icons/verbs/action-19.svg"
+    },
+    {
+      "id": "T186R15-7",
+      "fr": "achètent",
+      "zh": "购买",
+      "file": "assets/icons/verbs/action-19.svg"
+    },
+    {
+      "id": "T29R19-2",
+      "fr": "parler français",
+      "zh": "说法语",
+      "file": "assets/icons/verbs/action-3.svg"
+    },
+    {
+      "id": "P188-1",
+      "fr": "voudrais",
+      "zh": "想要",
+      "file": "assets/icons/verbs/action-79.svg"
+    },
+    {
+      "id": "P114-1",
+      "fr": "allez",
+      "zh": "去",
+      "file": "assets/icons/verbs/action-37.svg"
+    },
+    {
+      "id": "P114-2",
+      "fr": "prenez",
+      "zh": "乘坐；走某条路",
+      "file": "assets/icons/verbs/action-39.svg"
+    },
+    {
+      "id": "P114-3",
+      "fr": "tournez",
+      "zh": "转弯",
+      "file": "assets/icons/verbs/action-40.svg"
+    },
+    {
+      "id": "P114-4",
+      "fr": "continuez",
+      "zh": "继续",
+      "file": "assets/icons/verbs/action-41.svg"
+    },
+    {
+      "id": "P114-5",
+      "fr": "traversez",
+      "zh": "穿过",
+      "file": "assets/icons/verbs/action-42.svg"
+    }
+  ],
+  "unmatched": [
+    {
+      "id": "T121R11-3",
+      "fr": "prendre",
+      "zh": "吃或喝；拿取"
+    },
+    {
+      "id": "T186R2-1",
+      "fr": "être",
+      "zh": "是、处于"
+    },
+    {
+      "id": "T186R2-2",
+      "fr": "suis",
+      "zh": "是、处于"
+    },
+    {
+      "id": "T186R2-3",
+      "fr": "es",
+      "zh": "是、处于"
+    },
+    {
+      "id": "T186R2-4",
+      "fr": "est",
+      "zh": "是、处于"
+    },
+    {
+      "id": "T186R2-5",
+      "fr": "sommes",
+      "zh": "是、处于"
+    },
+    {
+      "id": "T186R2-6",
+      "fr": "êtes",
+      "zh": "是、处于"
+    },
+    {
+      "id": "T186R2-7",
+      "fr": "sont",
+      "zh": "是、处于"
+    },
+    {
+      "id": "T186R5-1",
+      "fr": "faire",
+      "zh": "做"
+    },
+    {
+      "id": "T186R5-2",
+      "fr": "fais",
+      "zh": "做"
+    },
+    {
+      "id": "T186R5-3",
+      "fr": "fais",
+      "zh": "做"
+    },
+    {
+      "id": "T186R5-4",
+      "fr": "fait",
+      "zh": "做"
+    },
+    {
+      "id": "T186R5-5",
+      "fr": "faisons",
+      "zh": "做"
+    },
+    {
+      "id": "T186R5-6",
+      "fr": "faites",
+      "zh": "做"
+    },
+    {
+      "id": "T186R5-7",
+      "fr": "font",
+      "zh": "做"
+    },
+    {
+      "id": "T186R8-1",
+      "fr": "prendre",
+      "zh": "拿、乘、吃喝"
+    },
+    {
+      "id": "T186R8-2",
+      "fr": "prends",
+      "zh": "拿、乘、吃喝"
+    },
+    {
+      "id": "T186R8-3",
+      "fr": "prends",
+      "zh": "拿、乘、吃喝"
+    },
+    {
+      "id": "T186R8-4",
+      "fr": "prend",
+      "zh": "拿、乘、吃喝"
+    },
+    {
+      "id": "T186R8-5",
+      "fr": "prenons",
+      "zh": "拿、乘、吃喝"
+    },
+    {
+      "id": "T186R8-6",
+      "fr": "prenez",
+      "zh": "拿、乘、吃喝"
+    },
+    {
+      "id": "T186R8-7",
+      "fr": "prennent",
+      "zh": "拿、乘、吃喝"
+    },
+    {
+      "id": "T44R18-2",
+      "fr": "avoir faim",
+      "zh": "感到饥饿"
+    },
+    {
+      "id": "T44R19-2",
+      "fr": "avoir soif",
+      "zh": "感到口渴"
+    },
+    {
+      "id": "T44R20-2",
+      "fr": "avoir sommeil",
+      "zh": "感到困倦"
+    },
+    {
+      "id": "T44R21-2",
+      "fr": "avoir peur",
+      "zh": "感到害怕"
+    },
+    {
+      "id": "T44R22-2",
+      "fr": "être en colère",
+      "zh": "生气"
+    }
+  ]
+}

@@ -1,0 +1,1231 @@
+/* Source: 法语第五单元_穿衣与气氛.json; generated offline wrapper. */
+globalThis.FRENCH_UNIT5_SOURCE = {
+  "lessons": [
+    {
+      "id": "u5-s1",
+      "title": "S’habiller à la mode",
+      "zh": "穿衣与时尚",
+      "groups": [
+        {
+          "category": "衣服与穿搭",
+          "slides": "6、8–10、15、17、22",
+          "type": "noun",
+          "items": [
+            {
+              "zh": "一件衣服",
+              "fr": "un vêtement",
+              "gender": "m"
+            },
+            {
+              "zh": "一身穿搭",
+              "fr": "une tenue",
+              "gender": "f"
+            },
+            {
+              "zh": "衣柜",
+              "fr": "une armoire",
+              "gender": "f"
+            },
+            {
+              "zh": "上装",
+              "fr": "un haut",
+              "gender": "m"
+            },
+            {
+              "zh": "下装",
+              "fr": "un bas",
+              "gender": "m"
+            },
+            {
+              "zh": "T恤",
+              "fr": "un tee-shirt",
+              "alsoAccept": [
+                "un t-shirt"
+              ],
+              "gender": "m"
+            },
+            {
+              "zh": "毛衣",
+              "fr": "un pull",
+              "gender": "m"
+            },
+            {
+              "zh": "连帽卫衣",
+              "fr": "un sweat à capuche",
+              "gender": "m"
+            },
+            {
+              "zh": "宽松罩衫",
+              "fr": "une blouse",
+              "gender": "f"
+            },
+            {
+              "zh": "衬衫",
+              "fr": "une chemise",
+              "gender": "f"
+            },
+            {
+              "zh": "牛仔裤",
+              "fr": "un jean",
+              "gender": "m"
+            },
+            {
+              "zh": "长裤",
+              "fr": "un pantalon",
+              "gender": "m"
+            },
+            {
+              "zh": "半身裙",
+              "fr": "une jupe",
+              "gender": "f"
+            },
+            {
+              "zh": "连衣裙",
+              "fr": "une robe",
+              "gender": "f"
+            },
+            {
+              "zh": "短裤",
+              "fr": "un short",
+              "gender": "m"
+            },
+            {
+              "zh": "紧身打底裤",
+              "fr": "un legging",
+              "gender": "m"
+            },
+            {
+              "zh": "大衣",
+              "fr": "un manteau",
+              "gender": "m"
+            },
+            {
+              "zh": "短外套",
+              "fr": "une veste",
+              "gender": "f"
+            },
+            {
+              "zh": "风衣",
+              "fr": "un trench",
+              "gender": "m"
+            },
+            {
+              "zh": "羽绒服",
+              "fr": "une doudoune",
+              "gender": "f"
+            },
+            {
+              "zh": "雨衣",
+              "fr": "un imperméable",
+              "gender": "m"
+            },
+            {
+              "zh": "内衣（总称，复数）",
+              "fr": "des sous-vêtements",
+              "gender": "m",
+              "number": "plural"
+            },
+            {
+              "zh": "三角内裤",
+              "fr": "un slip",
+              "gender": "m"
+            },
+            {
+              "zh": "胸罩",
+              "fr": "un soutien-gorge",
+              "gender": "m"
+            },
+            {
+              "zh": "连裤袜",
+              "fr": "un collant",
+              "gender": "m"
+            },
+            {
+              "zh": "短袜（复数）",
+              "fr": "des chaussettes",
+              "gender": "f",
+              "number": "plural"
+            }
+          ]
+        },
+        {
+          "category": "鞋子与配饰",
+          "slides": "3、8、11–14、16、17、26",
+          "type": "noun",
+          "items": [
+            {
+              "zh": "配饰",
+              "fr": "un accessoire",
+              "gender": "m"
+            },
+            {
+              "zh": "鞋（复数）",
+              "fr": "des chaussures",
+              "gender": "f",
+              "number": "plural"
+            },
+            {
+              "zh": "运动鞋（复数）",
+              "fr": "des baskets",
+              "alsoAccept": [
+                "des chaussures de sport"
+              ],
+              "gender": "f",
+              "number": "plural"
+            },
+            {
+              "zh": "靴子（复数）",
+              "fr": "des bottes",
+              "gender": "f",
+              "number": "plural"
+            },
+            {
+              "zh": "乐福鞋（复数）",
+              "fr": "des mocassins",
+              "gender": "m",
+              "number": "plural"
+            },
+            {
+              "zh": "凉鞋（复数）",
+              "fr": "des sandales",
+              "gender": "f",
+              "number": "plural"
+            },
+            {
+              "zh": "高跟鞋（复数）",
+              "fr": "des talons",
+              "alsoAccept": [
+                "des chaussures à talons"
+              ],
+              "gender": "m",
+              "number": "plural"
+            },
+            {
+              "zh": "人字拖（复数）",
+              "fr": "des tongs",
+              "gender": "f",
+              "number": "plural"
+            },
+            {
+              "zh": "围巾",
+              "fr": "une écharpe",
+              "gender": "f"
+            },
+            {
+              "zh": "丝巾、方巾",
+              "fr": "un foulard",
+              "gender": "m"
+            },
+            {
+              "zh": "帽子（如礼帽）",
+              "fr": "un chapeau",
+              "gender": "m"
+            },
+            {
+              "zh": "鸭舌帽",
+              "fr": "une casquette",
+              "gender": "f"
+            },
+            {
+              "zh": "针织帽",
+              "fr": "un bonnet",
+              "gender": "m"
+            },
+            {
+              "zh": "眼镜",
+              "fr": "des lunettes",
+              "gender": "f",
+              "number": "plural"
+            },
+            {
+              "zh": "太阳镜",
+              "fr": "des lunettes de soleil",
+              "gender": "f",
+              "number": "plural"
+            },
+            {
+              "zh": "手表",
+              "fr": "une montre",
+              "gender": "f"
+            },
+            {
+              "zh": "手套（复数）",
+              "fr": "des gants",
+              "gender": "m",
+              "number": "plural"
+            },
+            {
+              "zh": "腰带",
+              "fr": "une ceinture",
+              "gender": "f"
+            },
+            {
+              "zh": "雨伞",
+              "fr": "un parapluie",
+              "gender": "m"
+            },
+            {
+              "zh": "手提包",
+              "fr": "un sac à main",
+              "gender": "m"
+            },
+            {
+              "zh": "双肩包",
+              "fr": "un sac à dos",
+              "gender": "m"
+            }
+          ]
+        },
+        {
+          "category": "颜色",
+          "slides": "13、14、17、26",
+          "type": "adjective",
+          "items": [
+            {
+              "zh": "红色的",
+              "masculine": "rouge",
+              "feminine": "rouge",
+              "sameForm": true
+            },
+            {
+              "zh": "蓝色的",
+              "masculine": "bleu",
+              "feminine": "bleue"
+            },
+            {
+              "zh": "绿色的",
+              "masculine": "vert",
+              "feminine": "verte"
+            },
+            {
+              "zh": "黑色的",
+              "masculine": "noir",
+              "feminine": "noire"
+            },
+            {
+              "zh": "橙色的",
+              "masculine": "orange",
+              "feminine": "orange",
+              "sameForm": true
+            },
+            {
+              "zh": "白色的",
+              "masculine": "blanc",
+              "feminine": "blanche"
+            },
+            {
+              "zh": "灰色的",
+              "masculine": "gris",
+              "feminine": "grise"
+            },
+            {
+              "zh": "棕色的",
+              "masculine": "marron",
+              "feminine": "marron",
+              "sameForm": true
+            },
+            {
+              "zh": "黄色的",
+              "masculine": "jaune",
+              "feminine": "jaune",
+              "sameForm": true
+            },
+            {
+              "zh": "粉色的",
+              "masculine": "rose",
+              "feminine": "rose",
+              "sameForm": true
+            },
+            {
+              "zh": "紫色的",
+              "masculine": "violet",
+              "feminine": "violette"
+            },
+            {
+              "zh": "米色的",
+              "masculine": "beige",
+              "feminine": "beige",
+              "sameForm": true
+            },
+            {
+              "zh": "深蓝色的",
+              "masculine": "bleu foncé",
+              "feminine": "bleu foncé",
+              "sameForm": true
+            }
+          ]
+        },
+        {
+          "category": "款式与评价",
+          "slides": "3、8",
+          "type": "adjective",
+          "items": [
+            {
+              "zh": "好看的、美的",
+              "masculine": "beau",
+              "feminine": "belle"
+            },
+            {
+              "zh": "舒适的",
+              "masculine": "confortable",
+              "feminine": "confortable",
+              "sameForm": true
+            },
+            {
+              "zh": "优雅的",
+              "masculine": "élégant",
+              "feminine": "élégante"
+            },
+            {
+              "zh": "休闲的（穿着风格）",
+              "masculine": "décontracté",
+              "feminine": "décontractée"
+            },
+            {
+              "zh": "别致时髦的",
+              "masculine": "chic",
+              "feminine": "chic",
+              "sameForm": true
+            },
+            {
+              "zh": "昂贵的",
+              "masculine": "cher",
+              "feminine": "chère"
+            },
+            {
+              "zh": "极美的",
+              "masculine": "magnifique",
+              "feminine": "magnifique",
+              "sameForm": true
+            },
+            {
+              "zh": "漂亮的",
+              "masculine": "joli",
+              "feminine": "jolie"
+            }
+          ]
+        },
+        {
+          "category": "材质与款式",
+          "slides": "3、17",
+          "type": "expression",
+          "items": [
+            {
+              "zh": "皮革制的",
+              "fr": "en cuir"
+            },
+            {
+              "zh": "天鹅绒制的",
+              "fr": "en velours"
+            },
+            {
+              "zh": "一件高领毛衣",
+              "fr": "un pull à col roulé",
+              "alsoAccept": [
+                "un pull col roulé"
+              ],
+              "gender": "m"
+            },
+            {
+              "zh": "一双机车靴",
+              "fr": "des bottes de motard",
+              "gender": "m",
+              "number": "plural"
+            },
+            {
+              "zh": "时髦的、流行的",
+              "fr": "à la mode"
+            },
+            {
+              "zh": "便宜实惠的",
+              "fr": "bon marché",
+              "alsoAccept": [
+                "pas cher"
+              ]
+            }
+          ]
+        },
+        {
+          "category": "买衣服与试穿",
+          "slides": "3、6、7、8、17",
+          "type": "expression",
+          "items": [
+            {
+              "zh": "穿衣服（自反动词）",
+              "fr": "s’habiller"
+            },
+            {
+              "zh": "穿上一条长裤",
+              "fr": "mettre un pantalon"
+            },
+            {
+              "zh": "试穿一件衣服",
+              "fr": "essayer un vêtement"
+            },
+            {
+              "zh": "买一件衬衫",
+              "fr": "acheter une chemise"
+            },
+            {
+              "zh": "向妈妈借一件衣服",
+              "fr": "emprunter un vêtement à sa mère"
+            },
+            {
+              "zh": "一家服装店",
+              "fr": "un magasin de vêtements",
+              "gender": "m"
+            },
+            {
+              "zh": "我在找……",
+              "fr": "Je cherche…"
+            },
+            {
+              "zh": "这个多少钱？",
+              "fr": "C’est combien ?"
+            },
+            {
+              "zh": "太贵了！",
+              "fr": "C’est trop cher !"
+            },
+            {
+              "zh": "我穿这个很合适！",
+              "fr": "Ça me va bien !"
+            },
+            {
+              "zh": "我买了！",
+              "fr": "Je prends !"
+            },
+            {
+              "zh": "我想要同款的！（指阳性名词）",
+              "fr": "Je voudrais le même !"
+            },
+            {
+              "zh": "你最喜欢哪一身穿搭？",
+              "fr": "Quelle est ta tenue préférée ?"
+            },
+            {
+              "zh": "我的衣柜里有……",
+              "fr": "Dans mon armoire, il y a…"
+            }
+          ]
+        },
+        {
+          "category": "时装秀与人物",
+          "slides": "4、21–24、27",
+          "type": "expression",
+          "items": [
+            {
+              "zh": "时尚",
+              "fr": "la mode",
+              "gender": "f"
+            },
+            {
+              "zh": "一场时装秀",
+              "fr": "un défilé de mode",
+              "alsoAccept": [
+                "un défilé"
+              ],
+              "gender": "m"
+            },
+            {
+              "zh": "一名模特（课件用阳性）",
+              "fr": "un mannequin",
+              "gender": "m"
+            },
+            {
+              "zh": "模特行业",
+              "fr": "le mannequinat",
+              "gender": "m"
+            },
+            {
+              "zh": "时装设计公司",
+              "fr": "une maison de couture",
+              "gender": "f"
+            },
+            {
+              "zh": "时装设计师（男女同形）",
+              "fr": "un styliste",
+              "alsoAccept": [
+                "une styliste"
+              ]
+            },
+            {
+              "zh": "服装设计师、服装制作师（男性）",
+              "fr": "un couturier",
+              "gender": "m"
+            },
+            {
+              "zh": "一场展览",
+              "fr": "une exposition",
+              "gender": "f"
+            },
+            {
+              "zh": "服装系列",
+              "fr": "une collection",
+              "gender": "f"
+            },
+            {
+              "zh": "职业生涯",
+              "fr": "une carrière",
+              "gender": "f"
+            },
+            {
+              "zh": "开始职业生涯",
+              "fr": "débuter sa carrière"
+            },
+            {
+              "zh": "出席时装秀",
+              "fr": "assister à un défilé"
+            },
+            {
+              "zh": "索要签名",
+              "fr": "demander un autographe"
+            },
+            {
+              "zh": "拍照",
+              "fr": "prendre des photos"
+            },
+            {
+              "zh": "晚装",
+              "fr": "une tenue de soirée",
+              "gender": "f"
+            },
+            {
+              "zh": "日常穿搭",
+              "fr": "une tenue de tous les jours",
+              "gender": "f"
+            }
+          ]
+        }
+      ],
+      "patterns": [
+        {
+          "focus": "复合过去时",
+          "example": "J’ai rencontré un styliste.",
+          "note": "avoir 或 être 的现在时 + 过去分词。rencontrer → rencontré，apprendre → appris，décider → décidé。"
+        },
+        {
+          "focus": "颜色配合",
+          "example": "une veste blanche / des bottes marron",
+          "note": "一般颜色形容词与名词配合。表示颜色时，marron、orange 和复合颜色 bleu foncé 通常不变。"
+        }
+      ]
+    },
+    {
+      "id": "u5-s2",
+      "title": "Décrire une ambiance",
+      "zh": "描述气氛",
+      "groups": [
+        {
+          "category": "音乐流派",
+          "slides": "2、12、18",
+          "type": "noun",
+          "items": [
+            {
+              "zh": "流行音乐",
+              "fr": "la pop",
+              "gender": "f"
+            },
+            {
+              "zh": "摇滚乐",
+              "fr": "le rock",
+              "gender": "m"
+            },
+            {
+              "zh": "说唱音乐",
+              "fr": "le rap",
+              "gender": "m"
+            },
+            {
+              "zh": "爵士乐",
+              "fr": "le jazz",
+              "gender": "m"
+            },
+            {
+              "zh": "古典音乐",
+              "fr": "la musique classique",
+              "gender": "f"
+            },
+            {
+              "zh": "电子音乐",
+              "fr": "la musique électronique",
+              "alsoAccept": [
+                "la musique électro"
+              ],
+              "gender": "f"
+            },
+            {
+              "zh": "法国流行歌曲（variété）",
+              "fr": "la variété française",
+              "gender": "f"
+            },
+            {
+              "zh": "雷鬼乐",
+              "fr": "le reggae",
+              "gender": "m"
+            },
+            {
+              "zh": "金属乐",
+              "fr": "le métal",
+              "gender": "m"
+            },
+            {
+              "zh": "民谣音乐",
+              "fr": "la musique folk",
+              "gender": "f"
+            },
+            {
+              "zh": "布鲁斯音乐",
+              "fr": "le blues",
+              "gender": "m"
+            },
+            {
+              "zh": "乡村音乐",
+              "fr": "la country",
+              "gender": "f"
+            },
+            {
+              "zh": "电子流行乐",
+              "fr": "la musique électro-pop",
+              "gender": "f"
+            },
+            {
+              "zh": "放克音乐",
+              "fr": "le funk",
+              "gender": "m"
+            },
+            {
+              "zh": "诗歌朗诵表演（slam）",
+              "fr": "le slam",
+              "gender": "m"
+            }
+          ]
+        },
+        {
+          "category": "乐器",
+          "slides": "3–5",
+          "type": "noun",
+          "items": [
+            {
+              "zh": "一种乐器",
+              "fr": "un instrument de musique",
+              "gender": "m"
+            },
+            {
+              "zh": "吉他",
+              "fr": "la guitare",
+              "gender": "f"
+            },
+            {
+              "zh": "钢琴",
+              "fr": "le piano",
+              "gender": "m"
+            },
+            {
+              "zh": "小提琴",
+              "fr": "le violon",
+              "gender": "m"
+            },
+            {
+              "zh": "架子鼓",
+              "fr": "la batterie",
+              "gender": "f"
+            },
+            {
+              "zh": "电吉他",
+              "fr": "la guitare électrique",
+              "gender": "f"
+            },
+            {
+              "zh": "萨克斯管",
+              "fr": "le saxophone",
+              "gender": "m"
+            },
+            {
+              "zh": "小号",
+              "fr": "la trompette",
+              "gender": "f"
+            },
+            {
+              "zh": "长笛",
+              "fr": "la flûte",
+              "gender": "f"
+            },
+            {
+              "zh": "单簧管",
+              "fr": "la clarinette",
+              "gender": "f"
+            },
+            {
+              "zh": "手风琴",
+              "fr": "l’accordéon",
+              "gender": "m"
+            },
+            {
+              "zh": "竖琴",
+              "fr": "la harpe",
+              "gender": "f"
+            },
+            {
+              "zh": "长号",
+              "fr": "le trombone",
+              "gender": "m"
+            },
+            {
+              "zh": "大提琴",
+              "fr": "le violoncelle",
+              "gender": "m"
+            },
+            {
+              "zh": "班卓琴",
+              "fr": "le banjo",
+              "gender": "m"
+            },
+            {
+              "zh": "尤克里里",
+              "fr": "le ukulélé",
+              "alsoAccept": [
+                "l’ukulélé"
+              ],
+              "gender": "m"
+            },
+            {
+              "zh": "木琴",
+              "fr": "le xylophone",
+              "gender": "m"
+            },
+            {
+              "zh": "铃鼓",
+              "fr": "le tambourin",
+              "gender": "m"
+            },
+            {
+              "zh": "三角铁",
+              "fr": "le triangle",
+              "gender": "m"
+            }
+          ]
+        },
+        {
+          "category": "积极的气氛",
+          "slides": "6、8、9、11–17",
+          "type": "adjective",
+          "items": [
+            {
+              "zh": "欢乐的",
+              "masculine": "joyeux",
+              "feminine": "joyeuse"
+            },
+            {
+              "zh": "有节庆气氛的",
+              "masculine": "festif",
+              "feminine": "festive"
+            },
+            {
+              "zh": "热闹的",
+              "masculine": "animé",
+              "feminine": "animée"
+            },
+            {
+              "zh": "充满活力的",
+              "masculine": "dynamique",
+              "feminine": "dynamique",
+              "sameForm": true
+            },
+            {
+              "zh": "温暖亲切的",
+              "masculine": "chaleureux",
+              "feminine": "chaleureuse"
+            },
+            {
+              "zh": "轻松友好的（适合欢聚）",
+              "masculine": "convivial",
+              "feminine": "conviviale"
+            },
+            {
+              "zh": "令人放松的",
+              "masculine": "relaxant",
+              "feminine": "relaxante"
+            },
+            {
+              "zh": "令人愉快的",
+              "masculine": "agréable",
+              "feminine": "agréable",
+              "sameForm": true
+            },
+            {
+              "zh": "浪漫的",
+              "masculine": "romantique",
+              "feminine": "romantique",
+              "sameForm": true
+            },
+            {
+              "zh": "如梦似幻的",
+              "masculine": "magique",
+              "feminine": "magique",
+              "sameForm": true
+            },
+            {
+              "zh": "好玩的",
+              "masculine": "amusant",
+              "feminine": "amusante"
+            },
+            {
+              "zh": "令人着迷的",
+              "masculine": "passionnant",
+              "feminine": "passionnante"
+            },
+            {
+              "zh": "有意思的",
+              "masculine": "intéressant",
+              "feminine": "intéressante"
+            },
+            {
+              "zh": "棒极了的",
+              "masculine": "génial",
+              "feminine": "géniale"
+            },
+            {
+              "zh": "极好的、妙极了的",
+              "masculine": "fantastique",
+              "feminine": "fantastique",
+              "sameForm": true
+            }
+          ]
+        },
+        {
+          "category": "消极的气氛",
+          "slides": "7、12–17",
+          "type": "adjective",
+          "items": [
+            {
+              "zh": "悲伤的",
+              "masculine": "triste",
+              "feminine": "triste",
+              "sameForm": true
+            },
+            {
+              "zh": "无聊的",
+              "masculine": "ennuyeux",
+              "feminine": "ennuyeuse"
+            },
+            {
+              "zh": "令人紧张的",
+              "masculine": "stressant",
+              "feminine": "stressante"
+            },
+            {
+              "zh": "令人压抑的",
+              "masculine": "oppressant",
+              "feminine": "oppressante"
+            },
+            {
+              "zh": "紧张的（气氛）",
+              "masculine": "tendu",
+              "feminine": "tendue"
+            },
+            {
+              "zh": "令人担忧不安的",
+              "masculine": "inquiétant",
+              "feminine": "inquiétante"
+            },
+            {
+              "zh": "令人害怕的",
+              "masculine": "effrayant",
+              "feminine": "effrayante"
+            },
+            {
+              "zh": "阴郁低沉的",
+              "masculine": "morose",
+              "feminine": "morose",
+              "sameForm": true
+            },
+            {
+              "zh": "令人不快的",
+              "masculine": "désagréable",
+              "feminine": "désagréable",
+              "sameForm": true
+            },
+            {
+              "zh": "嘈杂的",
+              "masculine": "bruyant",
+              "feminine": "bruyante"
+            },
+            {
+              "zh": "糟透了的",
+              "masculine": "nul",
+              "feminine": "nulle"
+            }
+          ]
+        },
+        {
+          "category": "其他气氛",
+          "slides": "10、12、13、23",
+          "type": "adjective",
+          "items": [
+            {
+              "zh": "神秘的",
+              "masculine": "mystérieux",
+              "feminine": "mystérieuse"
+            },
+            {
+              "zh": "宁静的",
+              "masculine": "tranquille",
+              "feminine": "tranquille",
+              "sameForm": true
+            },
+            {
+              "zh": "安静的",
+              "masculine": "calme",
+              "feminine": "calme",
+              "sameForm": true
+            },
+            {
+              "zh": "友好的、令人愉快的（口语）",
+              "masculine": "sympa",
+              "feminine": "sympa",
+              "sameForm": true
+            }
+          ]
+        },
+        {
+          "category": "音乐、演出与活动",
+          "slides": "3、4、12–19、22、24、25",
+          "type": "expression",
+          "items": [
+            {
+              "zh": "一种气氛",
+              "fr": "une ambiance",
+              "gender": "f"
+            },
+            {
+              "zh": "音乐厅、演出场地",
+              "fr": "une salle de concert",
+              "gender": "f"
+            },
+            {
+              "zh": "一场音乐会",
+              "fr": "un concert",
+              "gender": "m"
+            },
+            {
+              "zh": "一名唱片骑师（DJ）",
+              "fr": "un DJ",
+              "gender": "m"
+            },
+            {
+              "zh": "一张专辑",
+              "fr": "un album",
+              "gender": "m"
+            },
+            {
+              "zh": "一首歌",
+              "fr": "une chanson",
+              "gender": "f"
+            },
+            {
+              "zh": "一份播放列表",
+              "fr": "une playlist",
+              "gender": "f"
+            },
+            {
+              "zh": "一名男乐手",
+              "fr": "un musicien",
+              "gender": "m"
+            },
+            {
+              "zh": "一名女乐手",
+              "fr": "une musicienne"
+            },
+            {
+              "zh": "一名男歌手",
+              "fr": "un chanteur",
+              "gender": "m"
+            },
+            {
+              "zh": "一个乐队、组合",
+              "fr": "un groupe",
+              "gender": "m"
+            },
+            {
+              "zh": "视唱练耳",
+              "fr": "le solfège",
+              "gender": "m"
+            },
+            {
+              "zh": "软件",
+              "fr": "un logiciel",
+              "gender": "m"
+            },
+            {
+              "zh": "诗歌节",
+              "fr": "un festival de poésie",
+              "gender": "m"
+            },
+            {
+              "zh": "马戏节",
+              "fr": "un festival du cirque",
+              "gender": "m"
+            },
+            {
+              "zh": "一场比赛",
+              "fr": "un match",
+              "gender": "m"
+            },
+            {
+              "zh": "同事间的聚会",
+              "fr": "une soirée entre collègues",
+              "gender": "f"
+            },
+            {
+              "zh": "生日聚会",
+              "fr": "une soirée d’anniversaire",
+              "gender": "f"
+            },
+            {
+              "zh": "文化活动",
+              "fr": "un événement culturel",
+              "gender": "m"
+            },
+            {
+              "zh": "一场演出",
+              "fr": "un spectacle",
+              "gender": "m"
+            },
+            {
+              "zh": "戏剧、剧院",
+              "fr": "le théâtre",
+              "gender": "m"
+            },
+            {
+              "zh": "风筝",
+              "fr": "un cerf-volant",
+              "gender": "m"
+            }
+          ]
+        },
+        {
+          "category": "谈音乐与回顾活动",
+          "slides": "3、13、15、17–20、24、25",
+          "type": "expression",
+          "items": [
+            {
+              "zh": "演奏一种乐器",
+              "fr": "jouer d’un instrument"
+            },
+            {
+              "zh": "您喜欢什么类型的音乐？",
+              "fr": "Qu’est-ce que vous aimez comme musique ?"
+            },
+            {
+              "zh": "您去听音乐会吗？",
+              "fr": "Est-ce que vous allez à des concerts ?"
+            },
+            {
+              "zh": "描述气氛",
+              "fr": "décrire une ambiance"
+            },
+            {
+              "zh": "当时怎么样？",
+              "fr": "C’était comment ?"
+            },
+            {
+              "zh": "当时很热闹。",
+              "fr": "C’était très animé."
+            },
+            {
+              "zh": "当时人很多。",
+              "fr": "Il y avait beaucoup de monde."
+            },
+            {
+              "zh": "当时天气很热。",
+              "fr": "Il faisait très chaud."
+            },
+            {
+              "zh": "我们一起唱了歌。",
+              "fr": "On a chanté ensemble."
+            },
+            {
+              "zh": "我们当时笑得很开心。",
+              "fr": "On a bien rigolé."
+            },
+            {
+              "zh": "和家人一起散步",
+              "fr": "faire une promenade en famille"
+            },
+            {
+              "zh": "耳朵疼",
+              "fr": "avoir mal aux oreilles"
+            },
+            {
+              "zh": "参加一场文化活动",
+              "fr": "participer à un événement culturel"
+            }
+          ]
+        },
+        {
+          "category": "听力里的数字",
+          "slides": "18、19",
+          "type": "number",
+          "items": [
+            {
+              "zh": "100",
+              "fr": "cent"
+            },
+            {
+              "zh": "101",
+              "fr": "cent un"
+            },
+            {
+              "zh": "200",
+              "fr": "deux cents"
+            },
+            {
+              "zh": "1000",
+              "fr": "mille"
+            },
+            {
+              "zh": "10000",
+              "fr": "dix mille"
+            },
+            {
+              "zh": "20000",
+              "fr": "vingt mille"
+            },
+            {
+              "zh": "100000",
+              "fr": "cent mille"
+            },
+            {
+              "zh": "1000000",
+              "fr": "un million",
+              "gender": "m"
+            }
+          ]
+        }
+      ],
+      "patterns": [
+        {
+          "focus": "C’était + 形容词",
+          "example": "C’était joyeux.",
+          "note": "泛指当时的感受，用阳性单数。主语若是 une ambiance，形容词要用阴性，如 L’ambiance était joyeuse."
+        },
+        {
+          "focus": "Il y avait + 名词",
+          "example": "Il y avait de la bonne musique.",
+          "note": "说明当时有什么。"
+        },
+        {
+          "focus": "Il faisait + 天气词",
+          "example": "Il faisait beau.",
+          "note": "描述当时的天气。"
+        },
+        {
+          "focus": "未完成过去时与复合过去时",
+          "example": "Il y avait beaucoup de monde. On a dansé.",
+          "note": "前句描述当时的情景，后句讲已经发生的动作。"
+        }
+      ]
+    }
+  ]
+};
